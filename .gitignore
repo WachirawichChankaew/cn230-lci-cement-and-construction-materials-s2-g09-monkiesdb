@@ -1,0 +1,11 @@
+# ยกเว้นไฟล์ระบบของ Docker และไฟล์ชั่วคราว
+mysql_data/
+db_data/
+*.zip
+*.txt
+~$*.docx
+.DS_Store
+Thumbs.db
+
+database/
+*.sql

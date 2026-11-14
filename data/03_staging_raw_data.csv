@@ -1,0 +1,864 @@
+source_id,process_name,flow_name,raw_value,raw_unit,flow_category
+SRC-001,Gator Tile Adhesive,Acidification Potential (AP),6.49E-04,kg SO2 eq,Emission
+SRC-001,Gator Tile Adhesive,Global Warming Potential (GWP),3.06E-1,kg CO2 eq,Emission
+SRC-001,Gator Tile Adhesive,Ozone Depletion Potential (ODP),1.79E-11,kg CFC 11 eq,Emission
+SRC-001,Gator Tile Adhesive,Abiotic depletion for fossil resources (ADP-fossil),1.57E+00,MJ,Energy
+SRC-001,Gator Tile Adhesive,Admixture,0.0-10.0,%,Material
+SRC-001,Gator Tile Adhesive,Calcium carbonate,0.0-10.0,%,Material
+SRC-001,Gator Tile Adhesive,Paper (Packaging),10.0-20.0,%,Material
+SRC-001,Gator Tile Adhesive,Plastic (Packaging),10.0-20.0,%,Material
+SRC-001,Gator Tile Adhesive,Portland cement,30.0-40.0,%,Material
+SRC-001,Gator Tile Adhesive,Sand,60.0-70.0,%,Material
+SRC-001,Gator Tile Adhesive,Wood (Packaging),70.0-80.0,%,Material
+SRC-001,Gator Tile Adhesive,Waste to landfill (End-of-life),1.0,kg,Waste
+SRC-002,Grey Stone Mate Crocodile Tile Adhesive 20 KG,Acidification Potential (AP),1.44E-02,kg SO2 eq,Emission
+SRC-002,Grey Stone Mate Crocodile Tile Adhesive 20 KG,Global Warming Potential (GWP),5.77E+00,kg CO2 eq,Emission
+SRC-002,Grey Stone Mate Crocodile Tile Adhesive 20 KG,Ozone Depletion Potential (ODP),2.31E-08,kg CFC 11 eq,Emission
+SRC-002,Grey Stone Mate Crocodile Tile Adhesive 20 KG,Abiotic depletion for fossil resources (ADP-fossil),8.88E+01,MJ,Energy
+SRC-002,Grey Stone Mate Crocodile Tile Adhesive 20 KG,Additive,1.0-10.0,%,Material
+SRC-002,Grey Stone Mate Crocodile Tile Adhesive 20 KG,CaCO3,5.0-15.0,%,Material
+SRC-002,Grey Stone Mate Crocodile Tile Adhesive 20 KG,Cement,40.0-50.0,%,Material
+SRC-002,Grey Stone Mate Crocodile Tile Adhesive 20 KG,Film (Packaging),0.01,%,Material
+SRC-002,Grey Stone Mate Crocodile Tile Adhesive 20 KG,Paper bag (Packaging),0.15,%,Material
+SRC-002,Grey Stone Mate Crocodile Tile Adhesive 20 KG,Plastic bag (Packaging),0.29,%,Material
+SRC-002,Grey Stone Mate Crocodile Tile Adhesive 20 KG,Portland cement,40.0-50.0,%,Material
+SRC-002,Grey Stone Mate Crocodile Tile Adhesive 20 KG,Sand,40.0-50.0,%,Material
+SRC-002,Grey Stone Mate Crocodile Tile Adhesive 20 KG,Wood pallet (Packaging),1.31,%,Material
+SRC-003,Yellow Crocodile Tile Adhesive,Acidification Potential (AP),7.51E-04,kg SO2 eq,Emission
+SRC-003,Yellow Crocodile Tile Adhesive,Global Warming Potential (GWP),3.54E-1,kg CO2 eq,Emission
+SRC-003,Yellow Crocodile Tile Adhesive,Ozone Depletion Potential (ODP),2.07E-11,kg CFC 11 eq,Emission
+SRC-003,Yellow Crocodile Tile Adhesive,Abiotic depletion for fossil resources (ADP-fossil),1.82E+00,MJ,Energy
+SRC-003,Yellow Crocodile Tile Adhesive,Admixture,0.0-10.0,%,Material
+SRC-003,Yellow Crocodile Tile Adhesive,Calcium carbonate,0.0-10.0,%,Material
+SRC-003,Yellow Crocodile Tile Adhesive,Paper (Packaging),10.0-20.0,%,Material
+SRC-003,Yellow Crocodile Tile Adhesive,Plastic (Packaging),10.0-20.0,%,Material
+SRC-003,Yellow Crocodile Tile Adhesive,Portland cement,30.0-40.0,%,Material
+SRC-003,Yellow Crocodile Tile Adhesive,Sand,60.0-70.0,%,Material
+SRC-003,Yellow Crocodile Tile Adhesive,Wood (Packaging),70.0-80.0,%,Material
+SRC-004,Stone Mate Crocodile Tile Adhesive 20 KG,Acidification Potential (AP),3.13E-02,kg SO2 eq,Emission
+SRC-004,Stone Mate Crocodile Tile Adhesive 20 KG,Global Warming Potential (GWP),1.25E+01,kg CO2 eq,Emission
+SRC-004,Stone Mate Crocodile Tile Adhesive 20 KG,Ozone Depletion Potential (ODP),5.02E-08,kg CFC 11 eq,Emission
+SRC-004,Stone Mate Crocodile Tile Adhesive 20 KG,Abiotic depletion for fossil resources (ADP-fossil),1.93E+02,MJ,Energy
+SRC-004,Stone Mate Crocodile Tile Adhesive 20 KG,Additive,3.0-15.0,%,Material
+SRC-004,Stone Mate Crocodile Tile Adhesive 20 KG,CaCO3,1.0-10.0,%,Material
+SRC-004,Stone Mate Crocodile Tile Adhesive 20 KG,Cement,35.0-50.0,%,Material
+SRC-004,Stone Mate Crocodile Tile Adhesive 20 KG,Film (Packaging),0.01,%,Material
+SRC-004,Stone Mate Crocodile Tile Adhesive 20 KG,Paper bag (Packaging),0.02,%,Material
+SRC-004,Stone Mate Crocodile Tile Adhesive 20 KG,Plastic bag (Packaging),0.03,%,Material
+SRC-004,Stone Mate Crocodile Tile Adhesive 20 KG,Portland cement,35.0-50.0,%,Material
+SRC-004,Stone Mate Crocodile Tile Adhesive 20 KG,Sand,35.0-50.0,%,Material
+SRC-004,Stone Mate Crocodile Tile Adhesive 20 KG,Wood pallet (Packaging),1.31,%,Material
+SRC-005,Chalawan Tile Adhesive,Acidification Potential (AP),7.38E-04,kg SO2 eq,Emission
+SRC-005,Chalawan Tile Adhesive,Global Warming Potential (GWP),3.48E-1,kg CO2 eq,Emission
+SRC-005,Chalawan Tile Adhesive,Ozone Depletion Potential (ODP),2.04E-11,kg CFC 11 eq,Emission
+SRC-005,Chalawan Tile Adhesive,Abiotic depletion for fossil resources (ADP-fossil),1.79E+00,MJ,Energy
+SRC-005,Chalawan Tile Adhesive,Admixture,0.0-10.0,%,Material
+SRC-005,Chalawan Tile Adhesive,Calcium carbonate,0.0-10.0,%,Material
+SRC-005,Chalawan Tile Adhesive,Paper (Packaging),10.0-20.0,%,Material
+SRC-005,Chalawan Tile Adhesive,Plastic (Packaging),10.0-20.0,%,Material
+SRC-005,Chalawan Tile Adhesive,Portland cement,30.0-40.0,%,Material
+SRC-005,Chalawan Tile Adhesive,Sand,60.0-70.0,%,Material
+SRC-005,Chalawan Tile Adhesive,Wood (Packaging),70.0-80.0,%,Material
+SRC-006,Green Crocodile Tile Adhesive 20 KG,Acidification Potential (AP),1.96E-02,kg SO2 eq,Emission
+SRC-006,Green Crocodile Tile Adhesive 20 KG,Global Warming Potential (GWP),7.85E+00,kg CO2 eq,Emission
+SRC-006,Green Crocodile Tile Adhesive 20 KG,Ozone Depletion Potential (ODP),3.15E-08,kg CFC 11 eq,Emission
+SRC-006,Green Crocodile Tile Adhesive 20 KG,Abiotic depletion for fossil resources (ADP-fossil),1.21E+02,MJ,Energy
+SRC-006,Green Crocodile Tile Adhesive 20 KG,Additive,0.0-10.0,%,Material
+SRC-006,Green Crocodile Tile Adhesive 20 KG,CaCO3,1.0-10.0,%,Material
+SRC-006,Green Crocodile Tile Adhesive 20 KG,Cement,30.0-50.0,%,Material
+SRC-006,Green Crocodile Tile Adhesive 20 KG,Film (Packaging),0.01,%,Material
+SRC-006,Green Crocodile Tile Adhesive 20 KG,Paper bag (Packaging),0.43,%,Material
+SRC-006,Green Crocodile Tile Adhesive 20 KG,Portland cement,30.0-50.0,%,Material
+SRC-006,Green Crocodile Tile Adhesive 20 KG,Sand,40.0-60.0,%,Material
+SRC-006,Green Crocodile Tile Adhesive 20 KG,Wood pallet (Packaging),1.31,%,Material
+SRC-007,Crocodile Epoxy Plus,Acidification Potential (AP),4.98E-03,kg SO2 eq,Emission
+SRC-007,Crocodile Epoxy Plus,Global Warming Potential (GWP),2.35E+00,kg CO2 eq,Emission
+SRC-007,Crocodile Epoxy Plus,Ozone Depletion Potential (ODP),1.38E-10,kg CFC 11 eq,Emission
+SRC-007,Crocodile Epoxy Plus,Abiotic depletion for fossil resources (ADP-fossil),3.61E+01,MJ,Energy
+SRC-007,Crocodile Epoxy Plus,Admixture,40.0-50.0,%,Material
+SRC-007,Crocodile Epoxy Plus,Paper (Packaging),10.0-20.0,%,Material
+SRC-007,Crocodile Epoxy Plus,Plastic (Packaging),0.0-10.0,%,Material
+SRC-007,Crocodile Epoxy Plus,Sand,50.0-60.0,%,Material
+SRC-007,Crocodile Epoxy Plus,Steel (Packaging),70.0-80.0,%,Material
+SRC-007,Crocodile Epoxy Plus,Wood (Packaging),0.0-10.0,%,Material
+SRC-008,Silver Crocodile Tile Adhesive 20 KG,Acidification Potential (AP),2.44E-02,kg SO2 eq,Emission
+SRC-008,Silver Crocodile Tile Adhesive 20 KG,Global Warming Potential (GWP),9.74E+00,kg CO2 eq,Emission
+SRC-008,Silver Crocodile Tile Adhesive 20 KG,Ozone Depletion Potential (ODP),3.91E-08,kg CFC 11 eq,Emission
+SRC-008,Silver Crocodile Tile Adhesive 20 KG,Abiotic depletion for fossil resources (ADP-fossil),1.50E+02,MJ,Energy
+SRC-008,Silver Crocodile Tile Adhesive 20 KG,Additive,0.0-10.0,%,Material
+SRC-008,Silver Crocodile Tile Adhesive 20 KG,CaCO3,0.0-10.0,%,Material
+SRC-008,Silver Crocodile Tile Adhesive 20 KG,Cement,40.0-60.0,%,Material
+SRC-008,Silver Crocodile Tile Adhesive 20 KG,Film (Packaging),0.01,%,Material
+SRC-008,Silver Crocodile Tile Adhesive 20 KG,Plastic bag (Packaging),0.43,%,Material
+SRC-008,Silver Crocodile Tile Adhesive 20 KG,Portland cement,40.0-60.0,%,Material
+SRC-008,Silver Crocodile Tile Adhesive 20 KG,Sand,40.0-60.0,%,Material
+SRC-008,Silver Crocodile Tile Adhesive 20 KG,Wood pallet (Packaging),1.31,%,Material
+SRC-009,Crocodile Gold Premium Plus,Acidification Potential (AP),1.31E-03,kg SO2 eq,Emission
+SRC-009,Crocodile Gold Premium Plus,Global Warming Potential (GWP),6.18E-1,kg CO2 eq,Emission
+SRC-009,Crocodile Gold Premium Plus,Ozone Depletion Potential (ODP),3.62E-11,kg CFC 11 eq,Emission
+SRC-009,Crocodile Gold Premium Plus,Abiotic depletion for fossil resources (ADP-fossil),3.17E+00,MJ,Energy
+SRC-009,Crocodile Gold Premium Plus,Admixture,0.0-10.0,%,Material
+SRC-009,Crocodile Gold Premium Plus,Calcium carbonate,0.0-10.0,%,Material
+SRC-009,Crocodile Gold Premium Plus,Paper (Packaging),50.0-60.0,%,Material
+SRC-009,Crocodile Gold Premium Plus,Plastic (Packaging),10.0-20.0,%,Material
+SRC-009,Crocodile Gold Premium Plus,Portland cement,30.0-40.0,%,Material
+SRC-009,Crocodile Gold Premium Plus,Sand,40.0-50.0,%,Material
+SRC-009,Crocodile Gold Premium Plus,Wood (Packaging),30.0-40.0,%,Material
+SRC-010,X-Treme Crocodile Tile Adhesive 20 KG,Acidification Potential (AP),3.40E-02,kg SO2 eq,Emission
+SRC-010,X-Treme Crocodile Tile Adhesive 20 KG,Global Warming Potential (GWP),1.36E+01,kg CO2 eq,Emission
+SRC-010,X-Treme Crocodile Tile Adhesive 20 KG,Ozone Depletion Potential (ODP),5.49E-08,kg CFC 11 eq,Emission
+SRC-010,X-Treme Crocodile Tile Adhesive 20 KG,Abiotic depletion for fossil resources (ADP-fossil),2.10E+02,MJ,Energy
+SRC-010,X-Treme Crocodile Tile Adhesive 20 KG,Additive,10.0-20.0,%,Material
+SRC-010,X-Treme Crocodile Tile Adhesive 20 KG,Cement,30.0-50.0,%,Material
+SRC-010,X-Treme Crocodile Tile Adhesive 20 KG,Film (Packaging),0.01,%,Material
+SRC-010,X-Treme Crocodile Tile Adhesive 20 KG,Paper bag (Packaging),0.16,%,Material
+SRC-010,X-Treme Crocodile Tile Adhesive 20 KG,Plastic bag (Packaging),0.26,%,Material
+SRC-010,X-Treme Crocodile Tile Adhesive 20 KG,Portland cement,30.0-50.0,%,Material
+SRC-010,X-Treme Crocodile Tile Adhesive 20 KG,Sand,40.0-60.0,%,Material
+SRC-010,X-Treme Crocodile Tile Adhesive 20 KG,Wood pallet (Packaging),1.31,%,Material
+SRC-011,Chalawan Grout,Acidification Potential (AP),1.36E-03,kg SO2 eq,Emission
+SRC-011,Chalawan Grout,Global Warming Potential (GWP),6.43E-1,kg CO2 eq,Emission
+SRC-011,Chalawan Grout,Ozone Depletion Potential (ODP),3.76E-11,kg CFC 11 eq,Emission
+SRC-011,Chalawan Grout,Abiotic depletion for fossil resources (ADP-fossil),3.30E+00,MJ,Energy
+SRC-011,Chalawan Grout,Admixture,0.0-10.0,%,Material
+SRC-011,Chalawan Grout,Calcium carbonate,50.0-60.0,%,Material
+SRC-011,Chalawan Grout,Paper (Packaging),50.0-60.0,%,Material
+SRC-011,Chalawan Grout,Plastic (Packaging),10.0-20.0,%,Material
+SRC-011,Chalawan Grout,Portland cement,30.0-40.0,%,Material
+SRC-011,Chalawan Grout,Wood (Packaging),30.0-40.0,%,Material
+SRC-012,Gold Crocodile Tile Adhesive 20 KG,Acidification Potential (AP),2.73E-02,kg SO2 eq,Emission
+SRC-012,Gold Crocodile Tile Adhesive 20 KG,Global Warming Potential (GWP),1.09E+01,kg CO2 eq,Emission
+SRC-012,Gold Crocodile Tile Adhesive 20 KG,Ozone Depletion Potential (ODP),4.38E-08,kg CFC 11 eq,Emission
+SRC-012,Gold Crocodile Tile Adhesive 20 KG,Abiotic depletion for fossil resources (ADP-fossil),1.68E+02,MJ,Energy
+SRC-012,Gold Crocodile Tile Adhesive 20 KG,Additive,1.0-10.0,%,Material
+SRC-012,Gold Crocodile Tile Adhesive 20 KG,CaCO3,1.0-10.0,%,Material
+SRC-012,Gold Crocodile Tile Adhesive 20 KG,Cement,40.0-60.0,%,Material
+SRC-012,Gold Crocodile Tile Adhesive 20 KG,Film (Packaging),0.01,%,Material
+SRC-012,Gold Crocodile Tile Adhesive 20 KG,Plastic bag (Packaging),0.24,%,Material
+SRC-012,Gold Crocodile Tile Adhesive 20 KG,Portland cement,40.0-60.0,%,Material
+SRC-012,Gold Crocodile Tile Adhesive 20 KG,Sand,40.0-60.0,%,Material
+SRC-012,Gold Crocodile Tile Adhesive 20 KG,Wood pallet (Packaging),1.31,%,Material
+SRC-013,8 Light Blue Crocodile Tile Adhesive 20KG TH R.01 1,Acidification Potential (AP),1.77E-02,kg SO2 eq,Emission
+SRC-013,8 Light Blue Crocodile Tile Adhesive 20KG TH R.01 1,Global Warming Potential (GWP),7.07E+00,kg CO2 eq,Emission
+SRC-013,8 Light Blue Crocodile Tile Adhesive 20KG TH R.01 1,Ozone Depletion Potential (ODP),2.84E-08,kg CFC 11 eq,Emission
+SRC-013,8 Light Blue Crocodile Tile Adhesive 20KG TH R.01 1,Abiotic depletion for fossil resources (ADP-fossil),1.09E+02,MJ,Energy
+SRC-013,8 Light Blue Crocodile Tile Adhesive 20KG TH R.01 1,Additive,0.0-10.0,%,Material
+SRC-013,8 Light Blue Crocodile Tile Adhesive 20KG TH R.01 1,CaCO3,1.0-10.0,%,Material
+SRC-013,8 Light Blue Crocodile Tile Adhesive 20KG TH R.01 1,Film (Packaging),0.01,%,Material
+SRC-013,8 Light Blue Crocodile Tile Adhesive 20KG TH R.01 1,Paper bag (Packaging),0.52,%,Material
+SRC-013,8 Light Blue Crocodile Tile Adhesive 20KG TH R.01 1,Plastic bag (Packaging),0.07,%,Material
+SRC-013,8 Light Blue Crocodile Tile Adhesive 20KG TH R.01 1,Portland cement,30.0-50.0,%,Material
+SRC-013,8 Light Blue Crocodile Tile Adhesive 20KG TH R.01 1,Sand,40.0-60.0,%,Material
+SRC-013,8 Light Blue Crocodile Tile Adhesive 20KG TH R.01 1,Wood pallet (Packaging),1.31,%,Material
+SRC-013,8 Light Blue Crocodile Tile Adhesive 20KG TH R.01 1,Light Blue Tile Adhesive Product Flow,1.0,kg,Product
+SRC-014,Crocodile Turbo Plus 0.5 KG,Acidification Potential (AP),8.76E-04,kg SO2 eq,Emission
+SRC-014,Crocodile Turbo Plus 0.5 KG,Global Warming Potential (GWP),4.13E-01,kg CO2 eq,Emission
+SRC-014,Crocodile Turbo Plus 0.5 KG,Ozone Depletion Potential (ODP),2.42E-11,kg CFC 11 eq,Emission
+SRC-014,Crocodile Turbo Plus 0.5 KG,Abiotic depletion for fossil resources (ADP-fossil),2.12E+00,MJ,Energy
+SRC-014,Crocodile Turbo Plus 0.5 KG,Additive,0.0-10.0,%,Material
+SRC-014,Crocodile Turbo Plus 0.5 KG,CaCO3,30.0-50.0,%,Material
+SRC-014,Crocodile Turbo Plus 0.5 KG,Film (Packaging),0.01,%,Material
+SRC-014,Crocodile Turbo Plus 0.5 KG,Paper bag (Packaging),1.33,%,Material
+SRC-014,Crocodile Turbo Plus 0.5 KG,Plastic bag (Packaging),0.26,%,Material
+SRC-014,Crocodile Turbo Plus 0.5 KG,Portland cement,40.0-60.0,%,Material
+SRC-014,Crocodile Turbo Plus 0.5 KG,Wood pallet (Packaging),1.41,%,Material
+SRC-015,Crocodile Platinum 1 KG,Acidification Potential (AP),1.65E-03,kg SO2 eq,Emission
+SRC-015,Crocodile Platinum 1 KG,Global Warming Potential (GWP),7.76E-01,kg CO2 eq,Emission
+SRC-015,Crocodile Platinum 1 KG,Ozone Depletion Potential (ODP),4.54E-11,kg CFC 11 eq,Emission
+SRC-015,Crocodile Platinum 1 KG,Abiotic depletion for fossil resources (ADP-fossil),3.98E+00,MJ,Energy
+SRC-015,Crocodile Platinum 1 KG,Additive,10.0-20.0,%,Material
+SRC-015,Crocodile Platinum 1 KG,Film (Packaging),0.01,%,Material
+SRC-015,Crocodile Platinum 1 KG,Paper bag (Packaging),2.55,%,Material
+SRC-015,Crocodile Platinum 1 KG,Plastic bag (Packaging),0.97,%,Material
+SRC-015,Crocodile Platinum 1 KG,Portland cement,40.0-60.0,%,Material
+SRC-015,Crocodile Platinum 1 KG,Sand,40.0-60.0,%,Material
+SRC-015,Crocodile Platinum 1 KG,Wood pallet (Packaging),1.41,%,Material
+SRC-016,Crocodile Silver Premium Plus 1 KG,Acidification Potential (AP),1.60E-03,kg SO2 eq,Emission
+SRC-016,Crocodile Silver Premium Plus 1 KG,Global Warming Potential (GWP),7.57E-01,kg CO2 eq,Emission
+SRC-016,Crocodile Silver Premium Plus 1 KG,Ozone Depletion Potential (ODP),4.43E-11,kg CFC 11 eq,Emission
+SRC-016,Crocodile Silver Premium Plus 1 KG,Abiotic depletion for fossil resources (ADP-fossil),3.89E+00,MJ,Energy
+SRC-016,Crocodile Silver Premium Plus 1 KG,Additive,0.0-10.0,%,Material
+SRC-016,Crocodile Silver Premium Plus 1 KG,CaCO3,40.0-60.0,%,Material
+SRC-016,Crocodile Silver Premium Plus 1 KG,Film (Packaging),0.01,%,Material
+SRC-016,Crocodile Silver Premium Plus 1 KG,Paper bag (Packaging),1.46,%,Material
+SRC-016,Crocodile Silver Premium Plus 1 KG,Plastic bag (Packaging),0.99,%,Material
+SRC-016,Crocodile Silver Premium Plus 1 KG,Portland cement,40.0-60.0,%,Material
+SRC-016,Crocodile Silver Premium Plus 1 KG,Wood pallet (Packaging),1.41,%,Material
+SRC-017,Crocodile Silver Standard Cement Grout 1 KG,Acidification Potential (AP),1.35E-03,kg SO2 eq,Emission
+SRC-017,Crocodile Silver Standard Cement Grout 1 KG,Global Warming Potential (GWP),6.37E-01,kg CO2 eq,Emission
+SRC-017,Crocodile Silver Standard Cement Grout 1 KG,Ozone Depletion Potential (ODP),3.73E-11,kg CFC 11 eq,Emission
+SRC-017,Crocodile Silver Standard Cement Grout 1 KG,Abiotic depletion for fossil resources (ADP-fossil),3.27E+00,MJ,Energy
+SRC-017,Crocodile Silver Standard Cement Grout 1 KG,Additive,0.0-10.0,%,Material
+SRC-017,Crocodile Silver Standard Cement Grout 1 KG,CaCO3,40.0-60.0,%,Material
+SRC-017,Crocodile Silver Standard Cement Grout 1 KG,Film (Packaging),0.01,%,Material
+SRC-017,Crocodile Silver Standard Cement Grout 1 KG,Paper bag (Packaging),2.78,%,Material
+SRC-017,Crocodile Silver Standard Cement Grout 1 KG,Plastic bag (Packaging),0.55,%,Material
+SRC-017,Crocodile Silver Standard Cement Grout 1 KG,Portland cement,40.0-60.0,%,Material
+SRC-017,Crocodile Silver Standard Cement Grout 1 KG,Wood pallet (Packaging),1.41,%,Material
+SRC-018,Red Crocodile Tile Adhesive 20 KG,Acidification Potential (AP),2.07E-02,kg SO2 eq,Emission
+SRC-018,Red Crocodile Tile Adhesive 20 KG,Global Warming Potential (GWP),8.29E+00,kg CO2 eq,Emission
+SRC-018,Red Crocodile Tile Adhesive 20 KG,Ozone Depletion Potential (ODP),3.33E-08,kg CFC 11 eq,Emission
+SRC-018,Red Crocodile Tile Adhesive 20 KG,Abiotic depletion for fossil resources (ADP-fossil),1.28E+02,MJ,Energy
+SRC-018,Red Crocodile Tile Adhesive 20 KG,Additive,1.0-10.0,%,Material
+SRC-018,Red Crocodile Tile Adhesive 20 KG,CaCO3,1.0-10.0,%,Material
+SRC-018,Red Crocodile Tile Adhesive 20 KG,Cement,30.0-50.0,%,Material
+SRC-018,Red Crocodile Tile Adhesive 20 KG,Film (Packaging),0.01,%,Material
+SRC-018,Red Crocodile Tile Adhesive 20 KG,Paper bag (Packaging),0.14,%,Material
+SRC-018,Red Crocodile Tile Adhesive 20 KG,Plastic bag (Packaging),0.43,%,Material
+SRC-018,Red Crocodile Tile Adhesive 20 KG,Portland cement,30.0-50.0,%,Material
+SRC-018,Red Crocodile Tile Adhesive 20 KG,Sand,40.0-60.0,%,Material
+SRC-018,Red Crocodile Tile Adhesive 20 KG,Wood pallet (Packaging),1.31,%,Material
+SRC-019,1 Gypsum Board TOA Regular 9.0x1200x2400 mm,Global Warming Potential (GWP),2.09E+00,kg CO2 eq,Emission
+SRC-019,1 Gypsum Board TOA Regular 9.0x1200x2400 mm,Glue (Packaging),0.0014,kg/FU,Material
+SRC-019,1 Gypsum Board TOA Regular 9.0x1200x2400 mm,Mineral gypsum,5.3472,kg/FU,Material
+SRC-019,1 Gypsum Board TOA Regular 9.0x1200x2400 mm,Paper (Packaging),0.1879,kg/FU,Material
+SRC-019,1 Gypsum Board TOA Regular 9.0x1200x2400 mm,Recycled plasterboard,0.2674,kg/FU,Material
+SRC-019,1 Gypsum Board TOA Regular 9.0x1200x2400 mm,Tape (Packaging),0.0028,kg/FU,Material
+SRC-020,2 Gypsum Board GM Regular 9.0x1200x2400 mm,Global Warming Potential (GWP),2.09E+00,kg CO2 eq,Emission
+SRC-020,2 Gypsum Board GM Regular 9.0x1200x2400 mm,Glue (Packaging),0.0014,kg/FU,Material
+SRC-020,2 Gypsum Board GM Regular 9.0x1200x2400 mm,Mineral gypsum,5.3472,kg/FU,Material
+SRC-020,2 Gypsum Board GM Regular 9.0x1200x2400 mm,Paper (Packaging),0.1879,kg/FU,Material
+SRC-020,2 Gypsum Board GM Regular 9.0x1200x2400 mm,Recycled plasterboard,0.2674,kg/FU,Material
+SRC-020,2 Gypsum Board GM Regular 9.0x1200x2400 mm,Tape (Packaging),0.0028,kg/FU,Material
+SRC-021,3 Gypsum Board TOA Water Poof 9.0x1200x2400 mm,Global Warming Potential (GWP),2.43E+00,kg CO2 eq,Emission
+SRC-021,3 Gypsum Board TOA Water Poof 9.0x1200x2400 mm,Glue (Packaging),0.0023,kg/FU,Material
+SRC-021,3 Gypsum Board TOA Water Poof 9.0x1200x2400 mm,Mineral gypsum,4.5139,kg/FU,Material
+SRC-021,3 Gypsum Board TOA Water Poof 9.0x1200x2400 mm,Paper (Packaging),0.3406,kg/FU,Material
+SRC-021,3 Gypsum Board TOA Water Poof 9.0x1200x2400 mm,Recycled plasterboard,0.2257,kg/FU,Material
+SRC-021,3 Gypsum Board TOA Water Poof 9.0x1200x2400 mm,Tape (Packaging),0.0028,kg/FU,Material
+SRC-022,4 Gypsum Board GM Water Poof 9.0x1200x2400 mm,Global Warming Potential (GWP),2.43E+00,kg CO2 eq,Emission
+SRC-022,4 Gypsum Board GM Water Poof 9.0x1200x2400 mm,Glue (Packaging),0.0023,kg/FU,Material
+SRC-022,4 Gypsum Board GM Water Poof 9.0x1200x2400 mm,Mineral gypsum,4.5139,kg/FU,Material
+SRC-022,4 Gypsum Board GM Water Poof 9.0x1200x2400 mm,Paper (Packaging),0.3406,kg/FU,Material
+SRC-022,4 Gypsum Board GM Water Poof 9.0x1200x2400 mm,Recycled plasterboard,0.2257,kg/FU,Material
+SRC-022,4 Gypsum Board GM Water Poof 9.0x1200x2400 mm,Tape (Packaging),0.0028,kg/FU,Material
+SRC-023,5 Strong Gypsum Board TOA 12.0x1200x2400 mm,Global Warming Potential (GWP),4.87E+00,kg CO2 eq,Emission
+SRC-023,5 Strong Gypsum Board TOA 12.0x1200x2400 mm,Glue (Packaging),0.004,kg/FU,Material
+SRC-023,5 Strong Gypsum Board TOA 12.0x1200x2400 mm,Mineral gypsum,11.8056,kg/FU,Material
+SRC-023,5 Strong Gypsum Board TOA 12.0x1200x2400 mm,Paper (Packaging),0.3672,kg/FU,Material
+SRC-023,5 Strong Gypsum Board TOA 12.0x1200x2400 mm,Recycled plasterboard,0.5903,kg/FU,Material
+SRC-023,5 Strong Gypsum Board TOA 12.0x1200x2400 mm,Tape (Packaging),0.0028,kg/FU,Material
+SRC-024,6 Strong Gypsum Board TOA 15.0x1200x2400 mm,Global Warming Potential (GWP),5.54E+00,kg CO2 eq,Emission
+SRC-024,6 Strong Gypsum Board TOA 15.0x1200x2400 mm,Glue (Packaging),0.004,kg/FU,Material
+SRC-024,6 Strong Gypsum Board TOA 15.0x1200x2400 mm,Mineral gypsum,13.1944,kg/FU,Material
+SRC-024,6 Strong Gypsum Board TOA 15.0x1200x2400 mm,Paper (Packaging),0.3576,kg/FU,Material
+SRC-024,6 Strong Gypsum Board TOA 15.0x1200x2400 mm,Recycled plasterboard,0.6597,kg/FU,Material
+SRC-024,6 Strong Gypsum Board TOA 15.0x1200x2400 mm,Tape (Packaging),0.0028,kg/FU,Material
+SRC-025,7 FireStop Board TOA 12.0x1200x2400 mm,Global Warming Potential (GWP),5.19E+00,kg CO2 eq,Emission
+SRC-025,7 FireStop Board TOA 12.0x1200x2400 mm,Glue (Packaging),0.0049,kg/FU,Material
+SRC-025,7 FireStop Board TOA 12.0x1200x2400 mm,Mineral gypsum,11.8056,kg/FU,Material
+SRC-025,7 FireStop Board TOA 12.0x1200x2400 mm,Paper (Packaging),0.4974,kg/FU,Material
+SRC-025,7 FireStop Board TOA 12.0x1200x2400 mm,Recycled plasterboard,0.5903,kg/FU,Material
+SRC-025,7 FireStop Board TOA 12.0x1200x2400 mm,Tape (Packaging),0.0028,kg/FU,Material
+SRC-026,8 FireStop Board TOA 15.0x1200x2400 mm,Global Warming Potential (GWP),5.43E+00,kg CO2 eq,Emission
+SRC-026,8 FireStop Board TOA 15.0x1200x2400 mm,Glue (Packaging),0.0058,kg/FU,Material
+SRC-026,8 FireStop Board TOA 15.0x1200x2400 mm,Mineral gypsum,13.1944,kg/FU,Material
+SRC-026,8 FireStop Board TOA 15.0x1200x2400 mm,Paper (Packaging),0.3886,kg/FU,Material
+SRC-026,8 FireStop Board TOA 15.0x1200x2400 mm,Recycled plasterboard,0.6597,kg/FU,Material
+SRC-026,8 FireStop Board TOA 15.0x1200x2400 mm,Tape (Packaging),0.0029,kg/FU,Material
+SRC-027,1 Roll_plain_D1250,Global Warming Potential (GWP),1.30E+00,kg CO2 eq,Emission
+SRC-027,1 Roll_plain_D1250,Additives,0.079,kg/FU,Material
+SRC-027,1 Roll_plain_D1250,Binder,0.0369,kg/FU,Material
+SRC-027,1 Roll_plain_D1250,Craft Paper (Packaging),0.0301,kg/FU,Material
+SRC-027,1 Roll_plain_D1250,Packing sheet (Packaging),0.0006,kg/FU,Material
+SRC-027,1 Roll_plain_D1250,Plastic bag HDPE (Packaging),0.0152,kg/FU,Material
+SRC-027,1 Roll_plain_D1250,Recovered Glass Scrap,0.7181,kg/FU,Material
+SRC-027,1 Roll_plain_D1250,Rope HDPE (Packaging),0.0002,kg/FU,Material
+SRC-027,1 Roll_plain_D1250,Tape (Packaging),0.0002,kg/FU,Material
+SRC-028,2 Roll_plain_D1275,Global Warming Potential (GWP),1.28E+00,kg CO2 eq,Emission
+SRC-028,2 Roll_plain_D1275,Additives,0.1184,kg/FU,Material
+SRC-028,2 Roll_plain_D1275,Binder,0.0553,kg/FU,Material
+SRC-028,2 Roll_plain_D1275,Craft Paper (Packaging),0.0415,kg/FU,Material
+SRC-028,2 Roll_plain_D1275,Packing sheet (Packaging),0.0009,kg/FU,Material
+SRC-028,2 Roll_plain_D1275,Plastic bag HDPE (Packaging),0.0209,kg/FU,Material
+SRC-028,2 Roll_plain_D1275,Recovered Glass Scrap,1.077,kg/FU,Material
+SRC-028,2 Roll_plain_D1275,Rope HDPE (Packaging),0.0002,kg/FU,Material
+SRC-028,2 Roll_plain_D1275,Tape (Packaging),0.0002,kg/FU,Material
+SRC-029,3 Roll_plain_D1625,Global Warming Potential (GWP),1.49E+00,kg CO2 eq,Emission
+SRC-029,3 Roll_plain_D1625,Additives,0.0526,kg/FU,Material
+SRC-029,3 Roll_plain_D1625,Binder,0.0246,kg/FU,Material
+SRC-029,3 Roll_plain_D1625,Craft Paper (Packaging),0.0082,kg/FU,Material
+SRC-029,3 Roll_plain_D1625,Packing sheet (Packaging),0.0002,kg/FU,Material
+SRC-029,3 Roll_plain_D1625,Plastic bag HDPE (Packaging),0.0041,kg/FU,Material
+SRC-029,3 Roll_plain_D1625,Recovered Glass Scrap,0.4787,kg/FU,Material
+SRC-029,3 Roll_plain_D1625,Rope HDPE (Packaging),0.0000,kg/FU,Material
+SRC-029,3 Roll_plain_D1625,Tape (Packaging),0.0000,kg/FU,Material
+SRC-030,4 Roll_plain_D2450,Global Warming Potential (GWP),2.08E+00,kg CO2 eq,Emission
+SRC-030,4 Roll_plain_D2450,Additives,0.1579,kg/FU,Material
+SRC-030,4 Roll_plain_D2450,Binder,0.0738,kg/FU,Material
+SRC-030,4 Roll_plain_D2450,Craft Paper (Packaging),0.0234,kg/FU,Material
+SRC-030,4 Roll_plain_D2450,Packing sheet (Packaging),0.0005,kg/FU,Material
+SRC-030,4 Roll_plain_D2450,Plastic bag HDPE (Packaging),0.0118,kg/FU,Material
+SRC-030,4 Roll_plain_D2450,Recovered Glass Scrap,1.4362,kg/FU,Material
+SRC-030,4 Roll_plain_D2450,Rope HDPE (Packaging),0.0001,kg/FU,Material
+SRC-030,4 Roll_plain_D2450,Tape (Packaging),0.0001,kg/FU,Material
+SRC-031,5 Roll_plain_D2475,Global Warming Potential (GWP),2.05E+00,kg CO2 eq,Emission
+SRC-031,5 Roll_plain_D2475,Additives,0.2369,kg/FU,Material
+SRC-031,5 Roll_plain_D2475,Binder,0.1106,kg/FU,Material
+SRC-031,5 Roll_plain_D2475,Craft Paper (Packaging),0.0178,kg/FU,Material
+SRC-031,5 Roll_plain_D2475,Packing sheet (Packaging),0.0004,kg/FU,Material
+SRC-031,5 Roll_plain_D2475,Plastic bag HDPE (Packaging),0.0090,kg/FU,Material
+SRC-031,5 Roll_plain_D2475,Recovered Glass Scrap,2.1543,kg/FU,Material
+SRC-031,5 Roll_plain_D2475,Rope HDPE (Packaging),0.0001,kg/FU,Material
+SRC-031,5 Roll_plain_D2475,Tape (Packaging),0.0001,kg/FU,Material
+SRC-032,6 Sht_plain_D3250,Global Warming Potential (GWP),3.02E+00,kg CO2 eq,Emission
+SRC-032,6 Sht_plain_D3250,Additives,0.2105,kg/FU,Material
+SRC-032,6 Sht_plain_D3250,Binder,0.0983,kg/FU,Material
+SRC-032,6 Sht_plain_D3250,Craft Paper (Packaging),0.0428,kg/FU,Material
+SRC-032,6 Sht_plain_D3250,Packing sheet (Packaging),0.0007,kg/FU,Material
+SRC-032,6 Sht_plain_D3250,Plastic bag HDPE (Packaging),0.0162,kg/FU,Material
+SRC-032,6 Sht_plain_D3250,Recovered Glass Scrap,1.915,kg/FU,Material
+SRC-032,6 Sht_plain_D3250,Rope HDPE (Packaging),0.0002,kg/FU,Material
+SRC-032,6 Sht_plain_D3250,Tape (Packaging),0.0002,kg/FU,Material
+SRC-033,7 Sht_plain_D3275,Global Warming Potential (GWP),3.00E+00,kg CO2 eq,Emission
+SRC-033,7 Sht_plain_D3275,Additives,0.3158,kg/FU,Material
+SRC-033,7 Sht_plain_D3275,Binder,0.1475,kg/FU,Material
+SRC-033,7 Sht_plain_D3275,Craft Paper (Packaging),0.0761,kg/FU,Material
+SRC-033,7 Sht_plain_D3275,Packing sheet (Packaging),0.0012,kg/FU,Material
+SRC-033,7 Sht_plain_D3275,Plastic bag HDPE (Packaging),0.0287,kg/FU,Material
+SRC-033,7 Sht_plain_D3275,Recovered Glass Scrap,2.8724,kg/FU,Material
+SRC-033,7 Sht_plain_D3275,Rope HDPE (Packaging),0.0003,kg/FU,Material
+SRC-033,7 Sht_plain_D3275,Tape (Packaging),0.0003,kg/FU,Material
+SRC-034,8 Sht_plain_D4850,Global Warming Potential (GWP),4.32E+00,kg CO2 eq,Emission
+SRC-034,8 Sht_plain_D4850,Additives,0.3158,kg/FU,Material
+SRC-034,8 Sht_plain_D4850,Binder,0.1475,kg/FU,Material
+SRC-034,8 Sht_plain_D4850,Craft Paper (Packaging),0.0451,kg/FU,Material
+SRC-034,8 Sht_plain_D4850,Packing sheet (Packaging),0.0007,kg/FU,Material
+SRC-034,8 Sht_plain_D4850,Plastic bag HDPE (Packaging),0.0170,kg/FU,Material
+SRC-034,8 Sht_plain_D4850,Recovered Glass Scrap,2.8724,kg/FU,Material
+SRC-034,8 Sht_plain_D4850,Rope HDPE (Packaging),0.0002,kg/FU,Material
+SRC-034,8 Sht_plain_D4850,Tape (Packaging),0.0002,kg/FU,Material
+SRC-035,9 Sht_plain_D6450,Global Warming Potential (GWP),5.69E+00,kg CO2 eq,Emission
+SRC-035,9 Sht_plain_D6450,Additives,0.4211,kg/FU,Material
+SRC-035,9 Sht_plain_D6450,Binder,0.1967,kg/FU,Material
+SRC-035,9 Sht_plain_D6450,Craft Paper (Packaging),0.0117,kg/FU,Material
+SRC-035,9 Sht_plain_D6450,Packing sheet (Packaging),0.0002,kg/FU,Material
+SRC-035,9 Sht_plain_D6450,Plastic bag HDPE (Packaging),0.0044,kg/FU,Material
+SRC-035,9 Sht_plain_D6450,Recovered Glass Scrap,3.8299,kg/FU,Material
+SRC-035,9 Sht_plain_D6450,Rope HDPE (Packaging),0.0000,kg/FU,Material
+SRC-035,9 Sht_plain_D6450,Tape (Packaging),0.0001,kg/FU,Material
+SRC-036,10 Sht_plain_D6475,Global Warming Potential (GWP),5.68E+00,kg CO2 eq,Emission
+SRC-036,10 Sht_plain_D6475,Additives,0.6316,kg/FU,Material
+SRC-036,10 Sht_plain_D6475,Binder,0.295,kg/FU,Material
+SRC-036,10 Sht_plain_D6475,Craft Paper (Packaging),0.0008,kg/FU,Material
+SRC-036,10 Sht_plain_D6475,Packing sheet (Packaging),0.0000,kg/FU,Material
+SRC-036,10 Sht_plain_D6475,Plastic bag HDPE (Packaging),0.0003,kg/FU,Material
+SRC-036,10 Sht_plain_D6475,Recovered Glass Scrap,5.7449,kg/FU,Material
+SRC-036,10 Sht_plain_D6475,Rope HDPE (Packaging),0.0000,kg/FU,Material
+SRC-036,10 Sht_plain_D6475,Tape (Packaging),0.0000,kg/FU,Material
+SRC-037,11 Roll_Foil_1_D1650,Global Warming Potential (GWP),1.94E+00,kg CO2 eq,Emission
+SRC-037,11 Roll_Foil_1_D1650,Additives,0.1053,kg/FU,Material
+SRC-037,11 Roll_Foil_1_D1650,Binder,0.0492,kg/FU,Material
+SRC-037,11 Roll_Foil_1_D1650,Craft Paper (Packaging),0.0266,kg/FU,Material
+SRC-037,11 Roll_Foil_1_D1650,Foil (Packaging),0.09,kg/FU,Material
+SRC-037,11 Roll_Foil_1_D1650,Glue (Packaging),0.015,kg/FU,Material
+SRC-037,11 Roll_Foil_1_D1650,Packing sheet (Packaging),0.0006,kg/FU,Material
+SRC-037,11 Roll_Foil_1_D1650,Plastic bag HDPE (Packaging),0.0134,kg/FU,Material
+SRC-037,11 Roll_Foil_1_D1650,Recovered Glass Scrap,0.9575,kg/FU,Material
+SRC-037,11 Roll_Foil_1_D1650,Rope HDPE (Packaging),0.0001,kg/FU,Material
+SRC-037,11 Roll_Foil_1_D1650,Tape (Packaging),0.0002,kg/FU,Material
+SRC-038,12 Roll_Foil_1_D2425,Global Warming Potential (GWP),2.89E+00,kg CO2 eq,Emission
+SRC-038,12 Roll_Foil_1_D2425,Additives,0.079,kg/FU,Material
+SRC-038,12 Roll_Foil_1_D2425,Binder,0.0369,kg/FU,Material
+SRC-038,12 Roll_Foil_1_D2425,Craft Paper (Packaging),0.0084,kg/FU,Material
+SRC-038,12 Roll_Foil_1_D2425,Foil (Packaging),0.09,kg/FU,Material
+SRC-038,12 Roll_Foil_1_D2425,Glue (Packaging),0.015,kg/FU,Material
+SRC-038,12 Roll_Foil_1_D2425,Packing sheet (Packaging),0.0002,kg/FU,Material
+SRC-038,12 Roll_Foil_1_D2425,Plastic bag HDPE (Packaging),0.0042,kg/FU,Material
+SRC-038,12 Roll_Foil_1_D2425,Recovered Glass Scrap,0.7181,kg/FU,Material
+SRC-038,12 Roll_Foil_1_D2425,Rope HDPE (Packaging),0,kg/FU,Material
+SRC-038,12 Roll_Foil_1_D2425,Tape (Packaging),0.0001,kg/FU,Material
+SRC-039,13 Roll_Foil_1_D2450,Global Warming Potential (GWP),2.49E+00,kg CO2 eq,Emission
+SRC-039,13 Roll_Foil_1_D2450,Additives,0.1579,kg/FU,Material
+SRC-039,13 Roll_Foil_1_D2450,Binder,0.0369,kg/FU,Material
+SRC-039,13 Roll_Foil_1_D2450,Craft Paper (Packaging),0.0185,kg/FU,Material
+SRC-039,13 Roll_Foil_1_D2450,Foil (Packaging),0.09,kg/FU,Material
+SRC-039,13 Roll_Foil_1_D2450,Glue (Packaging),0.015,kg/FU,Material
+SRC-039,13 Roll_Foil_1_D2450,Packing sheet (Packaging),0.0004,kg/FU,Material
+SRC-039,13 Roll_Foil_1_D2450,Plastic bag HDPE (Packaging),0.0093,kg/FU,Material
+SRC-039,13 Roll_Foil_1_D2450,Recovered Glass Scrap,1.4362,kg/FU,Material
+SRC-039,13 Roll_Foil_1_D2450,Rope HDPE (Packaging),0.0001,kg/FU,Material
+SRC-039,13 Roll_Foil_1_D2450,Tape (Packaging),0.0001,kg/FU,Material
+SRC-040,14 Roll_Foil_1_D3225,Global Warming Potential (GWP),3.35E+00,kg CO2 eq,Emission
+SRC-040,14 Roll_Foil_1_D3225,Additives,0.1053,kg/FU,Material
+SRC-040,14 Roll_Foil_1_D3225,Binder,0.0492,kg/FU,Material
+SRC-040,14 Roll_Foil_1_D3225,Craft Paper (Packaging),0.0158,kg/FU,Material
+SRC-040,14 Roll_Foil_1_D3225,Foil (Packaging),0.09,kg/FU,Material
+SRC-040,14 Roll_Foil_1_D3225,Glue (Packaging),0.015,kg/FU,Material
+SRC-040,14 Roll_Foil_1_D3225,Packing sheet (Packaging),0.0003,kg/FU,Material
+SRC-040,14 Roll_Foil_1_D3225,Plastic bag HDPE (Packaging),0.008,kg/FU,Material
+SRC-040,14 Roll_Foil_1_D3225,Recovered Glass Scrap,0.9575,kg/FU,Material
+SRC-040,14 Roll_Foil_1_D3225,Rope HDPE (Packaging),0.0001,kg/FU,Material
+SRC-040,14 Roll_Foil_1_D3225,Tape (Packaging),0.0001,kg/FU,Material
+SRC-041,15 Roll_Foil_1_D3250,Global Warming Potential (GWP),2.96E+00,kg CO2 eq,Emission
+SRC-041,15 Roll_Foil_1_D3250,Additives,0.2105,kg/FU,Material
+SRC-041,15 Roll_Foil_1_D3250,Binder,0.0983,kg/FU,Material
+SRC-041,15 Roll_Foil_1_D3250,Craft Paper (Packaging),0.0211,kg/FU,Material
+SRC-041,15 Roll_Foil_1_D3250,Foil (Packaging),0.09,kg/FU,Material
+SRC-041,15 Roll_Foil_1_D3250,Glue (Packaging),0.015,kg/FU,Material
+SRC-041,15 Roll_Foil_1_D3250,Packing sheet (Packaging),0.0004,kg/FU,Material
+SRC-041,15 Roll_Foil_1_D3250,Plastic bag HDPE (Packaging),0.0106,kg/FU,Material
+SRC-041,15 Roll_Foil_1_D3250,Recovered Glass Scrap,1.915,kg/FU,Material
+SRC-041,15 Roll_Foil_1_D3250,Rope HDPE (Packaging),0.0001,kg/FU,Material
+SRC-041,15 Roll_Foil_1_D3250,Tape (Packaging),0.0001,kg/FU,Material
+SRC-042,16 Roll_Foil_2_D1650,Global Warming Potential (GWP),2.36E+00,kg CO2 eq,Emission
+SRC-042,16 Roll_Foil_2_D1650,Additives,0.1053,kg/FU,Material
+SRC-042,16 Roll_Foil_2_D1650,Binder,0.0492,kg/FU,Material
+SRC-042,16 Roll_Foil_2_D1650,Craft Paper (Packaging),0.0211,kg/FU,Material
+SRC-042,16 Roll_Foil_2_D1650,Foil (Packaging),0.09,kg/FU,Material
+SRC-042,16 Roll_Foil_2_D1650,Glue (Packaging),0.015,kg/FU,Material
+SRC-042,16 Roll_Foil_2_D1650,Packing sheet (Packaging),0.0004,kg/FU,Material
+SRC-042,16 Roll_Foil_2_D1650,Plastic bag HDPE (Packaging),0.0106,kg/FU,Material
+SRC-042,16 Roll_Foil_2_D1650,Recovered Glass Scrap,0.9575,kg/FU,Material
+SRC-042,16 Roll_Foil_2_D1650,Rope HDPE (Packaging),0.0001,kg/FU,Material
+SRC-042,16 Roll_Foil_2_D1650,Tape (Packaging),0.0001,kg/FU,Material
+SRC-043,17 Roll_Foil_2_D2450,Global Warming Potential (GWP),2.86E+00,kg CO2 eq,Emission
+SRC-043,17 Roll_Foil_2_D2450,Additives,0.1579,kg/FU,Material
+SRC-043,17 Roll_Foil_2_D2450,Binder,0.0738,kg/FU,Material
+SRC-043,21 Roll_Foil_2_D2450,Craft Paper (Packaging),0.0312,kg/FU,Material
+SRC-043,24 Roll_Foil_2_D2450,Foil (Packaging),0.18,kg/FU,Material
+SRC-043,23 Roll_Foil_2_D2450,Glue (Packaging),0.03,kg/FU,Material
+SRC-043,20 Roll_Foil_2_D2450,Packing sheet (Packaging),0.0007,kg/FU,Material
+SRC-043,22 Roll_Foil_2_D2450,Plastic bag HDPE (Packaging),0.0157,kg/FU,Material
+SRC-043,17 Roll_Foil_2_D2450,Recovered Glass Scrap,1.4362,kg/FU,Material
+SRC-043,19 Roll_Foil_2_D2450,Rope HDPE (Packaging),0.0002,kg/FU,Material
+SRC-043,18 Roll_Foil_2_D2450,Tape (Packaging),0.0002,kg/FU,Material
+SRC-044,18 Roll_Foil_2_D3250,Global Warming Potential (GWP),3.31E+00,kg CO2 eq,Emission
+SRC-044,18 Roll_Foil_2_D3250,Additives,0.2105,kg/FU,Material
+SRC-044,18 Roll_Foil_2_D3250,Binder,0.0983,kg/FU,Material
+SRC-044,18 Roll_Foil_2_D3250,Craft Paper (Packaging),0.017,kg/FU,Material
+SRC-044,18 Roll_Foil_2_D3250,Foil (Packaging),0.18,kg/FU,Material
+SRC-044,18 Roll_Foil_2_D3250,Glue (Packaging),0.03,kg/FU,Material
+SRC-044,18 Roll_Foil_2_D3250,Packing sheet (Packaging),0.0004,kg/FU,Material
+SRC-044,18 Roll_Foil_2_D3250,Plastic bag HDPE (Packaging),0.0085,kg/FU,Material
+SRC-044,18 Roll_Foil_2_D3250,Recovered Glass Scrap,1.915,kg/FU,Material
+SRC-044,18 Roll_Foil_2_D3250,Rope HDPE (Packaging),0.0001,kg/FU,Material
+SRC-044,18 Roll_Foil_2_D3250,Tape (Packaging),0.0001,kg/FU,Material
+SRC-045,19 Roll_Al Foil_D1250,Global Warming Potential (GWP),2.39E+00,kg CO2 eq,Emission
+SRC-045,19 Roll_Al Foil_D1250,Additives,0.079,kg/FU,Material
+SRC-045,19 Roll_Al Foil_D1250,Binder,0.0369,kg/FU,Material
+SRC-045,19 Roll_Al Foil_D1250,Craft Paper (Packaging),0.0156,kg/FU,Material
+SRC-045,19 Roll_Al Foil_D1250,Foil (Packaging),0.207,kg/FU,Material
+SRC-045,19 Roll_Al Foil_D1250,Glue (Packaging),0.0345,kg/FU,Material
+SRC-045,19 Roll_Al Foil_D1250,Packing sheet (Packaging),0.0005,kg/FU,Material
+SRC-045,19 Roll_Al Foil_D1250,Plastic bag HDPE (Packaging),0.0445,kg/FU,Material
+SRC-045,19 Roll_Al Foil_D1250,Recovered Glass Scrap,0.7181,kg/FU,Material
+SRC-045,19 Roll_Al Foil_D1250,Rope HDPE (Packaging),0.0008,kg/FU,Material
+SRC-045,19 Roll_Al Foil_D1250,Tape (Packaging),0.0009,kg/FU,Material
+SRC-046,20 Roll_Al Foil_D1275,Global Warming Potential (GWP),2.01E+00,kg CO2 eq,Emission
+SRC-046,20 Roll_Al Foil_D1275,Additives,0.1184,kg/FU,Material
+SRC-046,20 Roll_Al Foil_D1275,Binder,0.0553,kg/FU,Material
+SRC-046,20 Roll_Al Foil_D1275,Craft Paper (Packaging),0.0492,kg/FU,Material
+SRC-046,20 Roll_Al Foil_D1275,Foil (Packaging),0.207,kg/FU,Material
+SRC-046,20 Roll_Al Foil_D1275,Glue (Packaging),0.0345,kg/FU,Material
+SRC-046,20 Roll_Al Foil_D1275,Packing sheet (Packaging),0.0007,kg/FU,Material
+SRC-046,20 Roll_Al Foil_D1275,Plastic bag HDPE (Packaging),0.0445,kg/FU,Material
+SRC-046,20 Roll_Al Foil_D1275,Recovered Glass Scrap,1.0772,kg/FU,Material
+SRC-046,20 Roll_Al Foil_D1275,Rope HDPE (Packaging),0.0008,kg/FU,Material
+SRC-046,20 Roll_Al Foil_D1275,Tape (Packaging),0.0009,kg/FU,Material
+SRC-047,21 Roll_Al Foil_D12150,Global Warming Potential (GWP),1.62E+00,kg CO2 eq,Emission
+SRC-047,21 Roll_Al Foil_D12150,Additives,0.2369,kg/FU,Material
+SRC-047,21 Roll_Al Foil_D12150,Binder,0.1106,kg/FU,Material
+SRC-047,21 Roll_Al Foil_D12150,Craft Paper (Packaging),0.0156,kg/FU,Material
+SRC-047,21 Roll_Al Foil_D12150,Foil (Packaging),0.207,kg/FU,Material
+SRC-047,21 Roll_Al Foil_D12150,Glue (Packaging),0.0345,kg/FU,Material
+SRC-047,21 Roll_Al Foil_D12150,Packing sheet (Packaging),0.0007,kg/FU,Material
+SRC-047,21 Roll_Al Foil_D12150,Plastic bag HDPE (Packaging),0.0492,kg/FU,Material
+SRC-047,21 Roll_Al Foil_D12150,Recovered Glass Scrap,2.1543,kg/FU,Material
+SRC-047,21 Roll_Al Foil_D12150,Rope HDPE (Packaging),0.0008,kg/FU,Material
+SRC-047,21 Roll_Al Foil_D12150,Tape (Packaging),0.0009,kg/FU,Material
+SRC-048,22 Well Eco_D3250,Global Warming Potential (GWP),2.94E+00,kg CO2 eq,Emission
+SRC-048,22 Well Eco_D3250,Additives,0.2105,kg/FU,Material
+SRC-048,22 Well Eco_D3250,Craft Paper (Packaging),0.0307,kg/FU,Material
+SRC-048,22 Well Eco_D3250,Packing sheet (Packaging),0.0005,kg/FU,Material
+SRC-048,22 Well Eco_D3250,Plastic bag HDPE (Packaging),0.0116,kg/FU,Material
+SRC-048,22 Well Eco_D3250,Recovered Glass Scrap,1.915,kg/FU,Material
+SRC-048,22 Well Eco_D3250,Rope HDPE (Packaging),0.0001,kg/FU,Material
+SRC-048,22 Well Eco_D3250,Tape (Packaging),0.0001,kg/FU,Material
+SRC-049,23 Sht_Well Eco_D3275,Global Warming Potential (GWP),2.94E+00,kg CO2 eq,Emission
+SRC-049,23 Sht_Well Eco_D3275,Additives,0.3158,kg/FU,Material
+SRC-049,23 Sht_Well Eco_D3275,Craft Paper (Packaging),0.0461,kg/FU,Material
+SRC-049,23 Sht_Well Eco_D3275,Packing sheet (Packaging),0.0007,kg/FU,Material
+SRC-049,23 Sht_Well Eco_D3275,Plastic bag HDPE (Packaging),0.0174,kg/FU,Material
+SRC-049,23 Sht_Well Eco_D3275,Recovered Glass Scrap,2.8724,kg/FU,Material
+SRC-049,23 Sht_Well Eco_D3275,Rope HDPE (Packaging),0.0002,kg/FU,Material
+SRC-049,23 Sht_Well Eco_D3275,Tape (Packaging),0.0002,kg/FU,Material
+SRC-050,24 Sht_Well Eco_D4850,Global Warming Potential (GWP),4.34E+00,kg CO2 eq,Emission
+SRC-050,24 Sht_Well Eco_D4850,Additives,0.3158,kg/FU,Material
+SRC-050,24 Sht_Well Eco_D4850,Craft Paper (Packaging),0.0901,kg/FU,Material
+SRC-050,24 Sht_Well Eco_D4850,Packing sheet (Packaging),0.0014,kg/FU,Material
+SRC-050,24 Sht_Well Eco_D4850,Plastic bag HDPE (Packaging),0.034,kg/FU,Material
+SRC-050,24 Sht_Well Eco_D4850,Recovered Glass Scrap,2.8724,kg/FU,Material
+SRC-050,24 Sht_Well Eco_D4850,Rope HDPE (Packaging),0.0003,kg/FU,Material
+SRC-050,24 Sht_Well Eco_D4850,Tape (Packaging),0.0004,kg/FU,Material
+SRC-051,25 Roll_plain_D24100,Global Warming Potential (GWP),1.86E+00,kg CO2 eq,Emission
+SRC-051,25 Roll_plain_D24100,Additives,0.3158,kg/FU,Material
+SRC-051,25 Roll_plain_D24100,Binder,0.1475,kg/FU,Material
+SRC-051,25 Roll_plain_D24100,Craft Paper (Packaging),0.053,kg/FU,Material
+SRC-051,25 Roll_plain_D24100,Packing sheet (Packaging),0.0011,kg/FU,Material
+SRC-051,25 Roll_plain_D24100,Plastic bag HDPE (Packaging),0.0267,kg/FU,Material
+SRC-051,25 Roll_plain_D24100,Recovered Glass Scrap,2.8724,kg/FU,Material
+SRC-051,25 Roll_plain_D24100,Rope HDPE (Packaging),0.0003,kg/FU,Material
+SRC-051,25 Roll_plain_D24100,Tape (Packaging),0.0003,kg/FU,Material
+SRC-052,26 Sht_plain_D32100,Global Warming Potential (GWP),3.10E+00,kg CO2 eq,Emission
+SRC-052,26 Sht_plain_D32100,Additives,0.4211,kg/FU,Material
+SRC-052,26 Sht_plain_D32100,Binder,0.1967,kg/FU,Material
+SRC-052,26 Sht_plain_D32100,Craft Paper (Packaging),0.199,kg/FU,Material
+SRC-052,26 Sht_plain_D32100,Packing sheet (Packaging),0.0032,kg/FU,Material
+SRC-052,26 Sht_plain_D32100,Plastic bag HDPE (Packaging),0.0751,kg/FU,Material
+SRC-052,26 Sht_plain_D32100,Recovered Glass Scrap,3.8299,kg/FU,Material
+SRC-052,26 Sht_plain_D32100,Rope HDPE (Packaging),0.0007,kg/FU,Material
+SRC-052,26 Sht_plain_D32100,Tape (Packaging),0.0009,kg/FU,Material
+SRC-053,Steel Cord 53XX 5x0.38 HI,Global Warming Potential (GWP),3.66E+03,kg CO2 eq,Emission
+SRC-053,Steel Cord 53XX 5x0.38 HI,Non-renewable primary energy,4.31E+04,MJ,Energy
+SRC-053,Steel Cord 53XX 5x0.38 HI,Renewable primary energy,5.40E+02,MJ,Energy
+SRC-053,Steel Cord 53XX 5x0.38 HI,Chemicals,1.0-2.0,%,Material
+SRC-053,Steel Cord 53XX 5x0.38 HI,Paper (Packaging),0.19-0.42,%,Material
+SRC-053,Steel Cord 53XX 5x0.38 HI,Plastic (Packaging),0.52-1.12,%,Material
+SRC-053,Steel Cord 53XX 5x0.38 HI,Steel (Packaging),0.08-0.18,%,Material
+SRC-053,Steel Cord 53XX 5x0.38 HI,Steel wire rod,98.0-99.0,%,Material
+SRC-053,Steel Cord 53XX 5x0.38 HI,Hazardous waste disposed,1.62E+00,kg,Waste
+SRC-053,Steel Cord 53XX 5x0.38 HI,Non-hazardous waste disposed,0.00E+00,kg,Waste
+SRC-053,Steel Cord 53XX 5x0.38 HI,Radioactive waste disposed,-4.80E-10,kg,Waste
+SRC-054,Steel Cord 55XX 3x0.20+6x0.35 HT,Global Warming Potential (GWP),3.64E+03,kg CO2 eq,Emission
+SRC-054,Steel Cord 55XX 3x0.20+6x0.35 HT,Non-renewable primary energy,4.26E+04,MJ,Energy
+SRC-054,Steel Cord 55XX 3x0.20+6x0.35 HT,Renewable primary energy,4.78E+02,MJ,Energy
+SRC-054,Steel Cord 55XX 3x0.20+6x0.35 HT,Chemicals,1.0-2.0,%,Material
+SRC-054,Steel Cord 55XX 3x0.20+6x0.35 HT,Paper (Packaging),0.19-0.42,%,Material
+SRC-054,Steel Cord 55XX 3x0.20+6x0.35 HT,Plastic (Packaging),0.52-1.12,%,Material
+SRC-054,Steel Cord 55XX 3x0.20+6x0.35 HT,Steel (Packaging),0.08-0.18,%,Material
+SRC-054,Steel Cord 55XX 3x0.20+6x0.35 HT,Steel wire rod,98.0-99.0,%,Material
+SRC-054,Steel Cord 55XX 3x0.20+6x0.35 HT,Hazardous waste disposed,1.62E+00,kg,Waste
+SRC-054,Steel Cord 55XX 3x0.20+6x0.35 HT,Non-hazardous waste disposed,0.00E+00,kg,Waste
+SRC-054,Steel Cord 55XX 3x0.20+6x0.35 HT,Radioactive waste disposed,-4.80E-10,kg,Waste
+SRC-055,Steel Cord 56XX 3+8x0.33 ST,Global Warming Potential (GWP),3.66E+03,kg CO2 eq,Emission
+SRC-055,Steel Cord 56XX 3+8x0.33 ST,Non-renewable primary energy,4.31E+04,MJ,Energy
+SRC-055,Steel Cord 56XX 3+8x0.33 ST,Renewable primary energy,5.38E+02,MJ,Energy
+SRC-055,Steel Cord 56XX 3+8x0.33 ST,Chemicals,1.0-2.0,%,Material
+SRC-055,Steel Cord 56XX 3+8x0.33 ST,Paper (Packaging),0.19-0.42,%,Material
+SRC-055,Steel Cord 56XX 3+8x0.33 ST,Plastic (Packaging),0.52-1.12,%,Material
+SRC-055,Steel Cord 56XX 3+8x0.33 ST,Steel (Packaging),0.08-0.18,%,Material
+SRC-055,Steel Cord 56XX 3+8x0.33 ST,Steel wire rod,98.0-99.0,%,Material
+SRC-055,Steel Cord 56XX 3+8x0.33 ST,Hazardous waste disposed,1.62E+00,kg,Waste
+SRC-055,Steel Cord 56XX 3+8x0.33 ST,Non-hazardous waste disposed,0.00E+00,kg,Waste
+SRC-055,Steel Cord 56XX 3+8x0.33 ST,Radioactive waste disposed,-4.80E-10,kg,Waste
+SRC-056,Steel Cord S311 3x0.20+6x0.35 HT,Global Warming Potential (GWP),3.64E+03,kg CO2 eq,Emission
+SRC-056,Steel Cord S311 3x0.20+6x0.35 HT,Non-renewable primary energy,4.26E+04,MJ,Energy
+SRC-056,Steel Cord S311 3x0.20+6x0.35 HT,Renewable primary energy,4.67E+02,MJ,Energy
+SRC-056,Steel Cord S311 3x0.20+6x0.35 HT,Chemicals,1.0-2.0,%,Material
+SRC-056,Steel Cord S311 3x0.20+6x0.35 HT,Paper (Packaging),0.19-0.42,%,Material
+SRC-056,Steel Cord S311 3x0.20+6x0.35 HT,Plastic (Packaging),0.52-1.12,%,Material
+SRC-056,Steel Cord S311 3x0.20+6x0.35 HT,Steel (Packaging),0.08-0.18,%,Material
+SRC-056,Steel Cord S311 3x0.20+6x0.35 HT,Steel wire rod,98.0-99.0,%,Material
+SRC-056,Steel Cord S311 3x0.20+6x0.35 HT,Hazardous waste disposed,1.62E+00,kg,Waste
+SRC-056,Steel Cord S311 3x0.20+6x0.35 HT,Non-hazardous waste disposed,0.00E+00,kg,Waste
+SRC-056,Steel Cord S311 3x0.20+6x0.35 HT,Radioactive waste disposed,-4.80E-10,kg,Waste
+SRC-057,Steel Cord S565 3+8x0.33 ST,Global Warming Potential (GWP),3.71E+03,kg CO2 eq,Emission
+SRC-057,Steel Cord S565 3+8x0.33 ST,Non-renewable primary energy,4.36E+04,MJ,Energy
+SRC-057,Steel Cord S565 3+8x0.33 ST,Renewable primary energy,5.11E+02,MJ,Energy
+SRC-057,Steel Cord S565 3+8x0.33 ST,Chemicals,1.0-2.0,%,Material
+SRC-057,Steel Cord S565 3+8x0.33 ST,Paper (Packaging),0.19-0.42,%,Material
+SRC-057,Steel Cord S565 3+8x0.33 ST,Plastic (Packaging),0.52-1.12,%,Material
+SRC-057,Steel Cord S565 3+8x0.33 ST,Steel (Packaging),0.08-0.18,%,Material
+SRC-057,Steel Cord S565 3+8x0.33 ST,Steel wire rod,98.0-99.0,%,Material
+SRC-057,Steel Cord S565 3+8x0.33 ST,Hazardous waste disposed,1.70E+00,kg,Waste
+SRC-057,Steel Cord S565 3+8x0.33 ST,Non-hazardous waste disposed,0.00E+00,kg,Waste
+SRC-057,Steel Cord S565 3+8x0.33 ST,Radioactive waste disposed,-5.01E-10,kg,Waste
+SRC-058,Steel Cord PKWF 2+2x0.25 HT,Global Warming Potential (GWP),3.70E+03,kg CO2 eq,Emission
+SRC-058,Steel Cord PKWF 2+2x0.25 HT,Non-renewable primary energy,4.37E+04,MJ,Energy
+SRC-058,Steel Cord PKWF 2+2x0.25 HT,Renewable primary energy,5.73E+02,MJ,Energy
+SRC-058,Steel Cord PKWF 2+2x0.25 HT,Chemicals,1.0-2.0,%,Material
+SRC-058,Steel Cord PKWF 2+2x0.25 HT,Paper (Packaging),0.19-0.42,%,Material
+SRC-058,Steel Cord PKWF 2+2x0.25 HT,Plastic (Packaging),0.52-1.12,%,Material
+SRC-058,Steel Cord PKWF 2+2x0.25 HT,Steel (Packaging),0.08-0.18,%,Material
+SRC-058,Steel Cord PKWF 2+2x0.25 HT,Steel wire rod,98.0-99.0,%,Material
+SRC-058,Steel Cord PKWF 2+2x0.25 HT,Hazardous waste disposed,1.66E+00,kg,Waste
+SRC-058,Steel Cord PKWF 2+2x0.25 HT,Non-hazardous waste disposed,0.00E+00,kg,Waste
+SRC-058,Steel Cord PKWF 2+2x0.25 HT,Radioactive waste disposed,-4.91E-10,kg,Waste
+SRC-059,3003 Aluminium Billet,Global Warming Potential (GWP),7.94E+00,kg CO2 eq,Emission
+SRC-059,3003 Aluminium Billet,Non-renewable primary energy,7.92E+01,MJ,Energy
+SRC-059,3003 Aluminium Billet,Renewable primary energy (biomass),4.65E-01,MJ,Energy
+SRC-059,3003 Aluminium Billet,"Renewable primary energy (wind, solar, geothermal)",5.83E-01,MJ,Energy
+SRC-059,3003 Aluminium Billet,Alloy agent,0.141,kg/FU,Material
+SRC-059,3003 Aluminium Billet,Primary aluminium ingot,0.432,kg/FU,Material
+SRC-059,3003 Aluminium Billet,Scrap,0.422,kg/FU,Material
+SRC-059,3003 Aluminium Billet,Secondary aluminium ingot,0.005,kg/FU,Material
+SRC-060,6061 Aluminium Billet,Global Warming Potential (GWP),9.41E+00,kg CO2 eq,Emission
+SRC-060,6061 Aluminium Billet,Non-renewable primary energy,9.35E+01,MJ,Energy
+SRC-060,6061 Aluminium Billet,Renewable primary energy (biomass),5.46E-01,MJ,Energy
+SRC-060,6061 Aluminium Billet,"Renewable primary energy (wind, solar, geothermal)",4.86E-01,MJ,Energy
+SRC-060,6061 Aluminium Billet,Alloy agent,0.014,kg/FU,Material
+SRC-060,6061 Aluminium Billet,Primary aluminium ingot,0.575,kg/FU,Material
+SRC-060,6061 Aluminium Billet,Scrap,0.406,kg/FU,Material
+SRC-061,3.-EPD-REPORT Billet-6063,Global Warming Potential (GWP),7.27E+00,kg CO2 eq,Emission
+SRC-061,3.-EPD-REPORT Billet-6063,Non-renewable primary energy,7.24E+01,MJ,Energy
+SRC-061,3.-EPD-REPORT Billet-6063,Renewable primary energy (biomass),4.25E-01,MJ,Energy
+SRC-061,3.-EPD-REPORT Billet-6063,"Renewable primary energy (wind, solar, geothermal)",3.39E-01,MJ,Energy
+SRC-061,3.-EPD-REPORT Billet-6063,Alloy agent,0.007,kg/FU,Material
+SRC-061,3.-EPD-REPORT Billet-6063,Primary aluminium ingot,0.445,kg/FU,Material
+SRC-061,3.-EPD-REPORT Billet-6063,Scrap,0.543,kg/FU,Material
+SRC-062,6061 Aluminum Extrusion,Global Warming Potential (GWP),1.26E+01,kg CO2 eq,Emission
+SRC-062,6061 Aluminum Extrusion,Non-renewable primary energy,1.28E+02,MJ,Energy
+SRC-062,6061 Aluminum Extrusion,Renewable primary energy (biomass),7.08E-01,MJ,Energy
+SRC-062,6061 Aluminum Extrusion,"Renewable primary energy (wind, solar, geothermal)",8.70E-01,MJ,Energy
+SRC-062,6061 Aluminum Extrusion,Alloy agent,0.014,kg/FU,Material
+SRC-062,6061 Aluminum Extrusion,Foam (Packaging),4.00E-06,kg/FU,Material
+SRC-062,6061 Aluminum Extrusion,Paper (Packaging),2.00E-06,kg/FU,Material
+SRC-062,6061 Aluminum Extrusion,Plastic (Packaging),9.32E-06,kg/FU,Material
+SRC-062,6061 Aluminum Extrusion,Primary aluminium ingot,0.575,kg/FU,Material
+SRC-062,6061 Aluminum Extrusion,Scrap,0.406,kg/FU,Material
+SRC-062,6061 Aluminum Extrusion,Secondary aluminium ingot,0.005,kg/FU,Material
+SRC-063,6063 Aluminum Extrusion,Global Warming Potential (GWP),9.99E+00,kg CO2 eq,Emission
+SRC-063,6063 Aluminum Extrusion,Non-renewable primary energy,1.00E+02,MJ,Energy
+SRC-063,6063 Aluminum Extrusion,Renewable primary energy (biomass),7.66E-01,MJ,Energy
+SRC-063,6063 Aluminum Extrusion,"Renewable primary energy (wind, solar, geothermal)",6.85E-01,MJ,Energy
+SRC-063,6063 Aluminum Extrusion,Alloy agent,0.007,kg/FU,Material
+SRC-063,6063 Aluminum Extrusion,Foam (Packaging),4.00E-06,kg/FU,Material
+SRC-063,6063 Aluminum Extrusion,Paper (Packaging),2.00E-06,kg/FU,Material
+SRC-063,6063 Aluminum Extrusion,Plastic (Packaging),9.32E-06,kg/FU,Material
+SRC-063,6063 Aluminum Extrusion,Primary aluminium ingot,0.445,kg/FU,Material
+SRC-063,6063 Aluminum Extrusion,Scrap,0.543,kg/FU,Material
+SRC-063,6063 Aluminum Extrusion,Secondary aluminium ingot,0.005,kg/FU,Material
+SRC-064,6061 Cold Drawn Precision Bar,Global Warming Potential (GWP),1.29E+01,kg CO2 eq,Emission
+SRC-064,6061 Cold Drawn Precision Bar,Non-renewable primary energy,1.31E+02,MJ,Energy
+SRC-064,6061 Cold Drawn Precision Bar,Renewable primary energy (biomass),7.22E-01,MJ,Energy
+SRC-064,6061 Cold Drawn Precision Bar,"Renewable primary energy (wind, solar, geothermal)",9.41E-01,MJ,Energy
+SRC-064,6061 Cold Drawn Precision Bar,Alloy agent,0.014,kg/FU,Material
+SRC-064,6061 Cold Drawn Precision Bar,Foam (Packaging),4.00E-06,kg/FU,Material
+SRC-064,6061 Cold Drawn Precision Bar,Paper (Packaging),2.00E-06,kg/FU,Material
+SRC-064,6061 Cold Drawn Precision Bar,Plastic (Packaging),9.32E-06,kg/FU,Material
+SRC-064,6061 Cold Drawn Precision Bar,Primary aluminium ingot,0.575,kg/FU,Material
+SRC-064,6061 Cold Drawn Precision Bar,Scrap,0.406,kg/FU,Material
+SRC-064,6061 Cold Drawn Precision Bar,Secondary aluminium ingot,0.005,kg/FU,Material
+SRC-065,6063 Cold Drawn Precision Pipe,Global Warming Potential (GWP),1.11E+01,kg CO2 eq,Emission
+SRC-065,6063 Cold Drawn Precision Pipe,Non-renewable primary energy,1.14E+02,MJ,Energy
+SRC-065,6063 Cold Drawn Precision Pipe,Renewable primary energy (biomass),6.19E-01,MJ,Energy
+SRC-065,6063 Cold Drawn Precision Pipe,"Renewable primary energy (wind, solar, geothermal)",8.14E-01,MJ,Energy
+SRC-065,6063 Cold Drawn Precision Pipe,Alloy agent,0.007,kg/FU,Material
+SRC-065,6063 Cold Drawn Precision Pipe,Foam (Packaging),4.00E-06,kg/FU,Material
+SRC-065,6063 Cold Drawn Precision Pipe,Paper (Packaging),2.00E-06,kg/FU,Material
+SRC-065,6063 Cold Drawn Precision Pipe,Plastic (Packaging),9.32E-06,kg/FU,Material
+SRC-065,6063 Cold Drawn Precision Pipe,Primary aluminium ingot,0.445,kg/FU,Material
+SRC-065,6063 Cold Drawn Precision Pipe,Scrap,0.543,kg/FU,Material
+SRC-066,6061 Anodized Aluminium Extrusion,Global Warming Potential (GWP),1.39E+01,kg CO2 eq,Emission
+SRC-066,6061 Anodized Aluminium Extrusion,Non-renewable primary energy,1.44E+02,MJ,Energy
+SRC-066,6061 Anodized Aluminium Extrusion,Renewable primary energy (biomass),7.99E-01,MJ,Energy
+SRC-066,6061 Anodized Aluminium Extrusion,"Renewable primary energy (wind, solar, geothermal)",1.40E+00,MJ,Energy
+SRC-066,6061 Anodized Aluminium Extrusion,Alloy agent,0.008,kg/FU,Material
+SRC-066,6061 Anodized Aluminium Extrusion,Paper (Packaging),7.00E-06,kg/FU,Material
+SRC-066,6061 Anodized Aluminium Extrusion,Plastic (Packaging),7.91E-06,kg/FU,Material
+SRC-066,6061 Anodized Aluminium Extrusion,Primary aluminium ingot,0.456,kg/FU,Material
+SRC-066,6061 Anodized Aluminium Extrusion,Scrap,0.532,kg/FU,Material
+SRC-066,6061 Anodized Aluminium Extrusion,Secondary aluminium ingot,0.005,kg/FU,Material
+SRC-067,6063 Anodized Alumnium Extrusion,Global Warming Potential (GWP),1.11E+01,kg CO2 eq,Emission
+SRC-067,6063 Anodized Alumnium Extrusion,Non-renewable primary energy,1.16E+02,MJ,Energy
+SRC-067,6063 Anodized Alumnium Extrusion,Renewable primary energy (biomass),6.42E-01,MJ,Energy
+SRC-067,6063 Anodized Alumnium Extrusion,"Renewable primary energy (wind, solar, geothermal)",7.46E-01,MJ,Energy
+SRC-067,6063 Anodized Alumnium Extrusion,Alloy agent,0.007,kg/FU,Material
+SRC-067,6063 Anodized Alumnium Extrusion,Paper (Packaging),7.00E-06,kg/FU,Material
+SRC-067,6063 Anodized Alumnium Extrusion,Plastic (Packaging),7.91E-06,kg/FU,Material
+SRC-067,6063 Anodized Alumnium Extrusion,Primary aluminium ingot,0.445,kg/FU,Material
+SRC-067,6063 Anodized Alumnium Extrusion,Scrap,0.543,kg/FU,Material
+SRC-068,6063 Color -Powder Coating Alumnium Extrusion,Global Warming Potential (GWP),1.07E+01,kg CO2 eq,Emission
+SRC-068,6063 Color -Powder Coating Alumnium Extrusion,Non-renewable primary energy,1.12E+02,MJ,Energy
+SRC-068,6063 Color -Powder Coating Alumnium Extrusion,Renewable primary energy (biomass),8.03E-01,MJ,Energy
+SRC-068,6063 Color -Powder Coating Alumnium Extrusion,"Renewable primary energy (wind, solar, geothermal)",8.74E-01,MJ,Energy
+SRC-068,6063 Color -Powder Coating Alumnium Extrusion,Alloy agent,0.007,kg/FU,Material
+SRC-068,6063 Color -Powder Coating Alumnium Extrusion,Foam (Packaging),3.00E-06,kg/FU,Material
+SRC-068,6063 Color -Powder Coating Alumnium Extrusion,Plastic (Packaging),7.61E-06,kg/FU,Material
+SRC-068,6063 Color -Powder Coating Alumnium Extrusion,Primary aluminium ingot,0.445,kg/FU,Material
+SRC-068,6063 Color -Powder Coating Alumnium Extrusion,Scrap,0.543,kg/FU,Material
+SRC-068,6063 Color -Powder Coating Alumnium Extrusion,Secondary aluminium ingot,0.005,kg/FU,Material
+SRC-069,Beger Cool Diamond Shield 15 Semi-Gloss Base A,Global Warming Potential (GWP),5.01E-01,kg CO2 eq,Emission
+SRC-069,Beger Cool Diamond Shield 15 Semi-Gloss Base A,Additives,1-10,%,Material
+SRC-069,Beger Cool Diamond Shield 15 Semi-Gloss Base A,Binders,55-60,%,Material
+SRC-069,Beger Cool Diamond Shield 15 Semi-Gloss Base A,Fillers,10-20,%,Material
+SRC-069,Beger Cool Diamond Shield 15 Semi-Gloss Base A,Plastic (Packaging),0.0137,kg/FU,Material
+SRC-069,Beger Cool Diamond Shield 15 Semi-Gloss Base A,Steel (Packaging),0.0010,kg/FU,Material
+SRC-069,Beger Cool Diamond Shield 15 Semi-Gloss Base A,Water,10-20,%,Material
+SRC-070,Beger Cool Diamond Shield Plus Semi-Gloss Base A,Global Warming Potential (GWP),4.90E-01,kg CO2 eq,Emission
+SRC-070,Beger Cool Diamond Shield Plus Semi-Gloss Base A,Additives,1-10,%,Material
+SRC-070,Beger Cool Diamond Shield Plus Semi-Gloss Base A,Binders,55-60,%,Material
+SRC-070,Beger Cool Diamond Shield Plus Semi-Gloss Base A,Fillers,15-20,%,Material
+SRC-070,Beger Cool Diamond Shield Plus Semi-Gloss Base A,Plastic (Packaging),0.0109,kg/FU,Material
+SRC-070,Beger Cool Diamond Shield Plus Semi-Gloss Base A,Steel (Packaging),0.0010,kg/FU,Material
+SRC-070,Beger Cool Diamond Shield Plus Semi-Gloss Base A,Water,10-20,%,Material
+SRC-071,Beger Cool UV Shield Base A,Global Warming Potential (GWP),5.79E-01,kg CO2 eq,Emission
+SRC-071,Beger Cool UV Shield Base A,Additives,1-10,%,Material
+SRC-071,Beger Cool UV Shield Base A,Binders,40-45,%,Material
+SRC-071,Beger Cool UV Shield Base A,Fillers,20-30,%,Material
+SRC-071,Beger Cool UV Shield Base A,Plastic (Packaging),0.0110,kg/FU,Material
+SRC-071,Beger Cool UV Shield Base A,Steel (Packaging),0.0010,kg/FU,Material
+SRC-071,Beger Cool UV Shield Base A,Water,15-20,%,Material
+SRC-072,Beger Cool All Plus Semi-Gloss Base A,Global Warming Potential (GWP),3.89E-01,kg CO2 eq,Emission
+SRC-072,Beger Cool All Plus Semi-Gloss Base A,Additives,1-10,%,Material
+SRC-072,Beger Cool All Plus Semi-Gloss Base A,Binders,45-50,%,Material
+SRC-072,Beger Cool All Plus Semi-Gloss Base A,Fillers,30-40,%,Material
+SRC-072,Beger Cool All Plus Semi-Gloss Base A,Plastic (Packaging),0.0108,kg/FU,Material
+SRC-072,Beger Cool All Plus Semi-Gloss Base A,Steel (Packaging),0.0010,kg/FU,Material
+SRC-072,Beger Cool All Plus Semi-Gloss Base A,Water,15-20,%,Material
+SRC-073,Beger Cool All Plus Exterior Base A,Global Warming Potential (GWP),4.72E-01,kg CO2 eq,Emission
+SRC-073,Beger Cool All Plus Exterior Base A,Additives,5-10,%,Material
+SRC-073,Beger Cool All Plus Exterior Base A,Binders,20-25,%,Material
+SRC-073,Beger Cool All Plus Exterior Base A,Fillers,40-50,%,Material
+SRC-073,Beger Cool All Plus Exterior Base A,Plastic (Packaging),0.0137,kg/FU,Material
+SRC-073,Beger Cool All Plus Exterior Base A,Steel (Packaging),0.0010,kg/FU,Material
+SRC-073,Beger Cool All Plus Exterior Base A,Water,30-35,%,Material
+SRC-074,Beger Cool All Plus Professional Exterior E-2200,Global Warming Potential (GWP),2.77E-01,kg CO2 eq,Emission
+SRC-074,Beger Cool All Plus Professional Exterior E-2200,Additives,1-10,%,Material
+SRC-074,Beger Cool All Plus Professional Exterior E-2200,Binders,10-15,%,Material
+SRC-074,Beger Cool All Plus Professional Exterior E-2200,Fillers,40-50,%,Material
+SRC-074,Beger Cool All Plus Professional Exterior E-2200,Plastic (Packaging),0.0105,kg/FU,Material
+SRC-074,Beger Cool All Plus Professional Exterior E-2200,Steel (Packaging),0.0006,kg/FU,Material
+SRC-074,Beger Cool All Plus Professional Exterior E-2200,Water,35-40,%,Material
+SRC-075,Beger Cool All Plus Interior Base A,Global Warming Potential (GWP),2.51E-01,kg CO2 eq,Emission
+SRC-075,Beger Cool All Plus Interior Base A,Additives,1-10,%,Material
+SRC-075,Beger Cool All Plus Interior Base A,Binders,10-15,%,Material
+SRC-075,Beger Cool All Plus Interior Base A,Fillers,40-50,%,Material
+SRC-075,Beger Cool All Plus Interior Base A,Plastic (Packaging),0.0137,kg/FU,Material
+SRC-075,Beger Cool All Plus Interior Base A,Steel (Packaging),0.0010,kg/FU,Material
+SRC-075,Beger Cool All Plus Interior Base A,Water,35-40,%,Material
+SRC-076,Beger Cool All Plus Professional Interior I-1100,Global Warming Potential (GWP),2.77E-01,kg CO2 eq,Emission
+SRC-076,Beger Cool All Plus Professional Interior I-1100,Additives,5-10,%,Material
+SRC-076,Beger Cool All Plus Professional Interior I-1100,Binders,15-20,%,Material
+SRC-076,Beger Cool All Plus Professional Interior I-1100,Fillers,40-50,%,Material
+SRC-076,Beger Cool All Plus Professional Interior I-1100,Plastic (Packaging),0.0046,kg/FU,Material
+SRC-076,Beger Cool All Plus Professional Interior I-1100,Steel (Packaging),0.0003,kg/FU,Material
+SRC-076,Beger Cool All Plus Professional Interior I-1100,Water,30-35,%,Material
+SRC-077,Beger Cool All Plus Alkali Resisting Primer 5000,Global Warming Potential (GWP),2.21E-01,kg CO2 eq,Emission
+SRC-077,Beger Cool All Plus Alkali Resisting Primer 5000,Additives,1-5,%,Material
+SRC-077,Beger Cool All Plus Alkali Resisting Primer 5000,Binders,1-10,%,Material
+SRC-077,Beger Cool All Plus Alkali Resisting Primer 5000,Fillers,50-60,%,Material
+SRC-077,Beger Cool All Plus Alkali Resisting Primer 5000,Plastic (Packaging),0.0046,kg/FU,Material
+SRC-077,Beger Cool All Plus Alkali Resisting Primer 5000,Steel (Packaging),0.0003,kg/FU,Material
+SRC-077,Beger Cool All Plus Alkali Resisting Primer 5000,Water,30-40,%,Material
+SRC-078,Beger Cool All Plus Alkali Resisting Primer 6000,Global Warming Potential (GWP),2.21E-01,kg CO2 eq,Emission
+SRC-078,Beger Cool All Plus Alkali Resisting Primer 6000,Additives,1-10,%,Material
+SRC-078,Beger Cool All Plus Alkali Resisting Primer 6000,Binders,10-15,%,Material
+SRC-078,Beger Cool All Plus Alkali Resisting Primer 6000,Fillers,40-50,%,Material
+SRC-078,Beger Cool All Plus Alkali Resisting Primer 6000,Plastic (Packaging),0.0097,kg/FU,Material
+SRC-078,Beger Cool All Plus Alkali Resisting Primer 6000,Steel (Packaging),0.0006,kg/FU,Material
+SRC-078,Beger Cool All Plus Alkali Resisting Primer 6000,Water,35-40,%,Material
+SRC-079,ขวดแก้วใส,Global Warming Potential (GWP),0.8075,kg CO2 eq,Emission
+SRC-079,ขวดแก้วใส,ทรายแก้ว,,,Material
+SRC-079,ขวดแก้วใส,เศษแก้ว,,,Material
+SRC-080,ขวดแก้วสีชา,Global Warming Potential (GWP),0.8305,kg CO2 eq,Emission
+SRC-080,ขวดแก้วสีชา,ทรายแก้ว,,,Material
+SRC-080,ขวดแก้วสีชา,เศษแก้ว,,,Material
+SRC-081,ฉนวนใยแก้ว,Global Warming Potential (GWP),2.5612,kg CO2 eq,Emission
+SRC-081,ฉนวนใยแก้ว,สารเคมีและกาวประสาน,,,Material
+SRC-081,ฉนวนใยแก้ว,เศษแก้วเศษขวด,,,Material
+SRC-082,กระจกแผ่นเรียบ,Global Warming Potential (GWP),1.2709,kg CO2 eq,Emission
+SRC-082,กระจกแผ่นเรียบ,ทรายแก้วและส่วนผสมอื่น,,,Material
+SRC-083,กระจกนิรภัยชั้นเดียว,Global Warming Potential (GWP),3.1358,kg CO2 eq,Emission
+SRC-083,กระจกนิรภัยชั้นเดียว,กระจกแผ่นเรียบ (Flat Glass),,,Material
+SRC-084,กระจกนิรภัยหลายชั้น,Global Warming Potential (GWP),2.4449,kg CO2 eq,Emission
+SRC-084,กระจกนิรภัยหลายชั้น,กระจกแผ่น,,,Material
+SRC-084,กระจกนิรภัยหลายชั้น,แผ่นฟิล์มโพลีไวนิลบิวทีเรต (PVB),,,Material
+SRC-085,กระจกฉนวนความร้อน,Global Warming Potential (GWP),1.7043,kg CO2 eq,Emission
+SRC-085,กระจกฉนวนความร้อน,กระจกแผ่น,,,Material
+SRC-085,กระจกฉนวนความร้อน,อลูมิเนียมและสารดูดซึมความชื้น,,,Material
+SRC-086,"อะลูมิเนียมแท่งบิลเลท (Aluminium, billet)",Global Warming Potential (GWP),11.9048,kg CO2 eq,Emission
+SRC-086,"อะลูมิเนียมแท่งบิลเลท (Aluminium, billet)",Alloys,,,Material
+SRC-086,"อะลูมิเนียมแท่งบิลเลท (Aluminium, billet)",อะลูมิเนียมบริสุทธิ์ (Primary Al),,,Material
+SRC-086,"อะลูมิเนียมแท่งบิลเลท (Aluminium, billet)",เศษอะลูมิเนียม (Aluminum scrap),,,Material
+SRC-087,"อะลูมิเนียมแผ่นชนิดม้วน (Aluminium, flat-rolled)",Global Warming Potential (GWP),5.8236,kg CO2 eq,Emission
+SRC-087,"อะลูมิเนียมแผ่นชนิดม้วน (Aluminium, flat-rolled)",Alloys,,,Material
+SRC-087,"อะลูมิเนียมแผ่นชนิดม้วน (Aluminium, flat-rolled)",อะลูมิเนียมบริสุทธิ์ (Primary Al),,,Material
+SRC-087,"อะลูมิเนียมแผ่นชนิดม้วน (Aluminium, flat-rolled)",เศษอะลูมิเนียม (Aluminum scrap),,,Material
+SRC-088,"อะลูมิเนียมเส้นหน้าตัดซีรีย์ MF 6061/6063 (Aluminium extrusion, Mill Finish 6061/6063)",Global Warming Potential (GWP),17.2254,kg CO2 eq,Emission
+SRC-088,"อะลูมิเนียมเส้นหน้าตัดซีรีย์ MF 6061/6063 (Aluminium extrusion, Mill Finish 6061/6063)",อะลูมิเนียมแท่งบิลเลทนำเข้าต่างประเทศ,,,Material
+SRC-088,"อะลูมิเนียมเส้นหน้าตัดซีรีย์ MF 6061/6063 (Aluminium extrusion, Mill Finish 6061/6063)",อะลูมิเนียมแท่งบิลเลทผลิตในประเทศ,,,Material
+SRC-089,"อะลูมิเนียมเส้นหน้าตัด ชุบเคลือบสีอโนไดซ์ ซีรีย์ 6063 (Aluminium extrusion, Anodized 6063)",Global Warming Potential (GWP),15.1848,kg CO2 eq,Emission
+SRC-089,"อะลูมิเนียมเส้นหน้าตัด ชุบเคลือบสีอโนไดซ์ ซีรีย์ 6063 (Aluminium extrusion, Anodized 6063)",อะลูมิเนียมเส้นหน้าตัดซีรีย์ 6063,,,Material
+SRC-090,"อะลูมิเนียมเส้นหน้าตัด พ่นสีฝุ่น ซีรีย์ 6063 (Aluminium extrusion, Powder-coated 6063)",Global Warming Potential (GWP),22.9605,kg CO2 eq,Emission
+SRC-090,"อะลูมิเนียมเส้นหน้าตัด พ่นสีฝุ่น ซีรีย์ 6063 (Aluminium extrusion, Powder-coated 6063)",อะลูมิเนียมเส้นหน้าตัดซีรีย์ 6063,,,Material
+SRC-091,เหล็กแผ่นรีดร้อนชนิดแผ่นหนา (Hot Rolled Steel Plate),Global Warming Potential (GWP),2.8307,kg CO2 eq,Emission
+SRC-091,เหล็กแผ่นรีดร้อนชนิดแผ่นหนา (Hot Rolled Steel Plate),เหล็กแท่งแบน (Steel Slab),,,Material
+SRC-092,เหล็กแผ่นรีดร้อนชนิดม้วน (Hot Rolled Coil Steel),Global Warming Potential (GWP),1.8578,kg CO2 eq,Emission
+SRC-092,เหล็กแผ่นรีดร้อนชนิดม้วน (Hot Rolled Coil Steel),เศษเหล็ก (Steel Scrap),,,Material
+SRC-092,เหล็กแผ่นรีดร้อนชนิดม้วน (Hot Rolled Coil Steel),เหล็กดิบ (Pig Iron),,,Material
+SRC-093,เหล็กแผ่นรีดเย็นชนิดม้วน (Cold-rolled Steel Coil),Global Warming Potential (GWP),2.0310,kg CO2 eq,Emission
+SRC-093,เหล็กแผ่นรีดเย็นชนิดม้วน (Cold-rolled Steel Coil),เหล็กแผ่นรีดร้อนชนิดม้วน (HRC),,,Material
+SRC-094,เหล็กแผ่นเคลือบโลหะ (Metal Coated Steel Coil),Global Warming Potential (GWP),3.1732,kg CO2 eq,Emission
+SRC-094,เหล็กแผ่นเคลือบโลหะ (Metal Coated Steel Coil),เหล็กแผ่นรีดร้อนชนิดม้วน,,,Material
+SRC-094,เหล็กแผ่นเคลือบโลหะ (Metal Coated Steel Coil),โลหะสังกะสีและอะลูมิเนียม,,,Material
+SRC-095,เหล็กแผ่นเคลือบสี (Pre-Painted Steel Coil),Global Warming Potential (GWP),3.4776,kg CO2 eq,Emission
+SRC-095,เหล็กแผ่นเคลือบสี (Pre-Painted Steel Coil),สารเคลือบสี,,,Material
+SRC-095,เหล็กแผ่นเคลือบสี (Pre-Painted Steel Coil),เหล็กแผ่นรีดร้อนชนิดม้วน,,,Material
+SRC-096,ลวดเหล็กกล้าดึงเย็นเสริมคอนกรีต (ลวดปลอก) (Steel Wire: Cold drawn Product),Global Warming Potential (GWP),2.5748,kg CO2 eq,Emission
+SRC-096,ลวดเหล็กกล้าดึงเย็นเสริมคอนกรีต (ลวดปลอก) (Steel Wire: Cold drawn Product),เหล็กลวดคาร์บอนต่ำ (Low Carbon Wire Rod),,,Material
+SRC-097,ลวดเหล็กกล้าสำหรับคอนกรีตอัดแรง (Steel Wire: PC Single Wire),Global Warming Potential (GWP),2.7911,kg CO2 eq,Emission
+SRC-097,ลวดเหล็กกล้าสำหรับคอนกรีตอัดแรง (Steel Wire: PC Single Wire),เหล็กลวดคาร์บอนสูง (High Carbon Wire Rod),,,Material
+SRC-098,ลวดเหล็กกล้าตีเกลียว 7 เส้น สำหรับคอนกรีตอัดแรง (Steel Wire: PC Strand),Global Warming Potential (GWP),2.8726,kg CO2 eq,Emission
+SRC-098,ลวดเหล็กกล้าตีเกลียว 7 เส้น สำหรับคอนกรีตอัดแรง (Steel Wire: PC Strand),เหล็กลวดคาร์บอนสูง (High Carbon Wire Rod),,,Material
+SRC-099,SCG OPC 20 Kg Bag in sling 2 MT,Acidification Potential (AP),2.19E+00,mol H+ eq,Emission
+SRC-099,SCG OPC 20 Kg Bag in sling 2 MT,Global Warming Potential (GWP),8.36E+02 kg CO2 eq,kg CO2 eq,Emission
+SRC-099,SCG OPC 20 Kg Bag in sling 2 MT,Ozone Depletion Potential (ODP),1.99E-06,kg CFC 11 eq,Emission
+SRC-099,SCG OPC 20 Kg Bag in sling 2 MT,Abiotic depletion for fossil resources (ADP-fossil),4.13E+03,MJ,Energy
+SRC-099,SCG OPC 20 Kg Bag in sling 2 MT,Clinker,8.74E+02 to 9.66E+02 kg,kg,Material
+SRC-099,SCG OPC 20 Kg Bag in sling 2 MT,Gypsum,4.64E+01 to 5.12E+01 kg,kg,Material
+SRC-099,SCG OPC 20 Kg Bag in sling 2 MT,Limestone,2.95E+01 to 3.26E+01 kg,kg,Material
+SRC-099,SCG OPC 20 Kg Bag in sling 2 MT,Organic chemicals,8.55E-02 to 9.45E-02 kg,kg,Material
+SRC-099,SCG OPC 20 Kg Bag in sling 2 MT,Paper bags (Packaging),1.62E+00 kg,kg,Material
+SRC-099,SCG OPC 20 Kg Bag in sling 2 MT,Plastic bag / sling (Packaging),2.50E+00 kg,kg,Material
+SRC-099,SCG OPC 20 Kg Bag in sling 2 MT,Plastic film (Packaging),1.79E+00 kg,kg,Material
+SRC-099,SCG OPC 20 Kg Bag in sling 2 MT,"Sodium hydroxide, liquid",1.71E-01 to 1.89E-01 kg,kg,Material
+SRC-099,SCG OPC 20 Kg Bag in sling 2 MT,SCG OPC 20 Kg Bag in sling 2 MT,1 000 kg,kg,Product
+SRC-100,SCG OPC 40 Kg Bag on Pallet Container,Acidification Potential (AP),2.19E+00,mol H+ eq,Emission
+SRC-100,SCG OPC 40 Kg Bag on Pallet Container,Global Warming Potential (GWP),8.33E+02 kg CO2 eq,kg CO2 eq,Emission
+SRC-100,SCG OPC 40 Kg Bag on Pallet Container,Ozone Depletion Potential (ODP),1.90E-06,kg CFC 11 eq,Emission
+SRC-100,SCG OPC 40 Kg Bag on Pallet Container,Abiotic depletion for fossil resources (ADP-fossil),4.01E+03,MJ,Energy
+SRC-100,SCG OPC 40 Kg Bag on Pallet Container,Clinker,8.74E+02 to 9.66E+02 kg,kg,Material
+SRC-100,SCG OPC 40 Kg Bag on Pallet Container,Gypsum,4.64E+01 to 5.12E+01 kg,kg,Material
+SRC-100,SCG OPC 40 Kg Bag on Pallet Container,Limestone,2.95E+01 to 3.26E+01 kg,kg,Material
+SRC-100,SCG OPC 40 Kg Bag on Pallet Container,Organic chemicals,8.55E-02 to 9.45E-02 kg,kg,Material
+SRC-100,SCG OPC 40 Kg Bag on Pallet Container,Paper bags (Packaging),1.44E+00 kg,kg,Material
+SRC-100,SCG OPC 40 Kg Bag on Pallet Container,Plastic film (Packaging),1.77E+00 kg,kg,Material
+SRC-100,SCG OPC 40 Kg Bag on Pallet Container,"Sodium hydroxide, liquid",1.71E-01 to 1.89E-01 kg,kg,Material
+SRC-100,SCG OPC 40 Kg Bag on Pallet Container,Wooden pallet (Packaging),1.51E+01 kg,kg,Material
+SRC-100,SCG OPC 40 Kg Bag on Pallet Container,SCG OPC 40 Kg Bag on Pallet Container,1 000 kg,kg,Product
+SRC-101,SCG OPC Bulk in JBB 1.5 MT,Acidification Potential (AP),2.14E+00,mol H+ eq,Emission
+SRC-101,SCG OPC Bulk in JBB 1.5 MT,Global Warming Potential (GWP),8.25E+02 kg CO2 eq,kg CO2 eq,Emission
+SRC-101,SCG OPC Bulk in JBB 1.5 MT,Ozone Depletion Potential (ODP),1.70E-06,kg CFC 11 eq,Emission
+SRC-101,SCG OPC Bulk in JBB 1.5 MT,Abiotic depletion for fossil resources (ADP-fossil),3.87E+03,MJ,Energy
+SRC-101,SCG OPC Bulk in JBB 1.5 MT,Clinker,8.74E+02 to 9.66E+02 kg,kg,Material
+SRC-101,SCG OPC Bulk in JBB 1.5 MT,Gypsum,4.64E+01 to 5.12E+01 kg,kg,Material
+SRC-101,SCG OPC Bulk in JBB 1.5 MT,Limestone,2.95E+01 to 3.26E+01 kg,kg,Material
+SRC-101,SCG OPC Bulk in JBB 1.5 MT,Organic chemicals,8.55E-02 to 9.45E-02 kg,kg,Material
+SRC-101,SCG OPC Bulk in JBB 1.5 MT,Plastic (Jumbo Bag Packaging),1.53E+00 kg,kg,Material
+SRC-101,SCG OPC Bulk in JBB 1.5 MT,"Sodium hydroxide, liquid",1.71E-01 to 1.89E-01 kg,kg,Material
+SRC-101,SCG OPC Bulk in JBB 1.5 MT,SCG OPC Bulk in JBB 1.5 MT,1 000 kg,kg,Product
+SRC-102,SCG PCC 40 Kg Bag on Pallet Container,Acidification Potential (AP),2.07E+00,mol H+ eq,Emission
+SRC-102,SCG PCC 40 Kg Bag on Pallet Container,Global Warming Potential (GWP),7.82E+02 kg CO2 eq,kg CO2 eq,Emission
+SRC-102,SCG PCC 40 Kg Bag on Pallet Container,Ozone Depletion Potential (ODP),1.91E-06,kg CFC 11 eq,Emission
+SRC-102,SCG PCC 40 Kg Bag on Pallet Container,Abiotic depletion for fossil resources (ADP-fossil),3.84E+03,MJ,Energy
+SRC-102,SCG PCC 40 Kg Bag on Pallet Container,Clinker,8.14E+02 to 9.00E+02 kg,kg,Material
+SRC-102,SCG PCC 40 Kg Bag on Pallet Container,Gypsum,4.93E+01 to 5.45E+01 kg,kg,Material
+SRC-102,SCG PCC 40 Kg Bag on Pallet Container,Limestone,8.80E+01 to 9.72E+01 kg,kg,Material
+SRC-102,SCG PCC 40 Kg Bag on Pallet Container,Organic chemicals,5.80E-01 to 6.40E-01 kg,kg,Material
+SRC-102,SCG PCC 40 Kg Bag on Pallet Container,Paper bags (Packaging),1.44E+00 kg,kg,Material
+SRC-102,SCG PCC 40 Kg Bag on Pallet Container,Plastic film (Packaging),1.77E+00 kg,kg,Material
+SRC-102,SCG PCC 40 Kg Bag on Pallet Container,"Sodium hydroxide, liquid",1.24E-01 to 1.37E-01 kg,kg,Material
+SRC-102,SCG PCC 40 Kg Bag on Pallet Container,Wooden pallet (Packaging),1.51E+01 kg,kg,Material
+SRC-102,SCG PCC 40 Kg Bag on Pallet Container,SCG PCC 40 Kg Bag on Pallet Container,1 000 kg,kg,Product
+SRC-103,SCG White Portland Cement - Bag 40 kg,Acidification Potential (AP),2.39E+00,mol H+ eq,Emission
+SRC-103,SCG White Portland Cement - Bag 40 kg,Global Warming Potential (GWP),"7,98E+02 kg CO2 eq",kg CO2 eq,Emission
+SRC-103,SCG White Portland Cement - Bag 40 kg,Ozone Depletion Potential (ODP),1.04E-05,kg CFC 11 eq,Emission
+SRC-103,SCG White Portland Cement - Bag 40 kg,Abiotic depletion for fossil resources (ADP-fossil),8.38E+03,MJ,Energy
+SRC-103,SCG White Portland Cement - Bag 40 kg,Additives,"1,00E+00 kg",kg,Material
+SRC-103,SCG White Portland Cement - Bag 40 kg,Gypsum,"3,00E+01 kg",kg,Material
+SRC-103,SCG White Portland Cement - Bag 40 kg,Limestone,"2,00E+01 kg",kg,Material
+SRC-103,SCG White Portland Cement - Bag 40 kg,Paper (Packaging),"1,89E+00 kg",kg,Material
+SRC-103,SCG White Portland Cement - Bag 40 kg,Plastic (Packaging),"1,89E+00 kg",kg,Material
+SRC-103,SCG White Portland Cement - Bag 40 kg,White Clinker,"9,49E+02 kg",kg,Material
+SRC-103,SCG White Portland Cement - Bag 40 kg,SCG White Portland Cement - Bag 40 kg,1 tonne,tonne,Product
+SRC-104,SCG Board Insulation,Global Warming Potential (GWP),"1,06E+00 kg CO2 eq",kg CO2 eq,Emission
+SRC-104,SCG Board Insulation,Chemicals (Resin Binder),3.1E-01 kg,kg,Material
+SRC-104,SCG Board Insulation,Paints and finishes,1.2E-02 kg,kg,Material
+SRC-104,SCG Board Insulation,Pigments,5.5E-04 kg,kg,Material
+SRC-104,SCG Board Insulation,Plastic (Packaging),1.6E-02 kg,kg,Material
+SRC-104,SCG Board Insulation,Recovered Glass Cullet,1.1E+00 kg,kg,Material
+SRC-104,SCG Board Insulation,SCG Board Insulation,1 m2 at R=1,m2,Product
+SRC-105,SCG Corporate-wide Operations,Total Greenhouse Gas Emissions (Scope 1+2+3),Corporate Total GHG,Million tonnes CO2 eq,Emission
+SRC-106,Thailand Cement Sector Net Zero Strategy,Hydraulic Cement Clinker Substitution Target,Policy Target (Clinker ratio < 75%),% Clinker Replacement,Product

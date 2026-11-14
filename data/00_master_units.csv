@@ -1,0 +1,5 @@
+unit_id,unit_code,unit_dimension,conversion_factor,description
+U-KG,kg,Mass,1.0,Kilogram
+U-M2,m2,Area,1.0,Square Meter
+U-MJ,MJ,Energy,1.0,Megajoule
+U-CO2EQ,kg CO2 eq,Global Warming Potential,1.0,Kilogram CO2 equivalent
