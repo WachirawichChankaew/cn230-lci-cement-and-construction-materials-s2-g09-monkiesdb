@@ -1,5 +1,6 @@
 unit_id,unit_code,unit_dimension,conversion_factor,description
-U-KG,kg,Mass,1.0,Kilogram
-U-M2,m2,Area,1.0,Square Meter
-U-MJ,MJ,Energy,1.0,Megajoule
-U-CO2EQ,kg CO2 eq,Global Warming Potential,1.0,Kilogram CO2 equivalent
+U-KG,kg,Mass,1.0,Kilogram (กิโลกรัม)
+U-M2,m2,Area,1.0,Square Meter (ตารางเมตร)
+U-MJ,MJ,Energy,1.0,Megajoule (เมกะจูล)
+U-CO2EQ,kg CO2 eq,Global Warming Potential,1.0,Kilogram CO2 Equivalent (กิโลกรัมคาร์บอนไดออกไซด์เทียบเท่า)
+U-TONNE,tonne,Mass,1000.0,Metric Tonne (ตัน)
