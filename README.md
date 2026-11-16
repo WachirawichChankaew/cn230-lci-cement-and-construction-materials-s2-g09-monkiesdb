@@ -22,6 +22,7 @@
 
 ```text
 cn230_lci_db/
+├── requirements.txt                                             # Python dependencies
 ├── docker-compose.yml                                           # PostgreSQL 16 + pgvector container setup
 ├── README.md
 ├── data/                                                        # Normalized CSV datasets & staging builder
@@ -44,7 +45,6 @@ cn230_lci_db/
 │   ├── cosine_heatmap.png
 │   └── pca_scatter.png
 └── serving/                                                     # Serving & Retrieval Layer (Chapter 6)
-    ├── requirements.txt                                         # Python dependencies
     ├── config.py                                                # DB connection, CSV loader & embedder config
     ├── 01_setup_pgvector.py                                     # Create pgvector extension, table & HNSW index
     ├── 02_embed_and_upsert.py                                   # Chunking, embedding & UPSERT 987 chunks
@@ -65,7 +65,7 @@ cn230_lci_db/
 ```powershell
 docker-compose up -d
 .\.venv\Scripts\Activate.ps1
-pip install -r serving/requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Step 2: (Optional) Rebuild Staging CSV Files (`data/`) & Relational Schema (`database/`)
