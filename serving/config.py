@@ -7,32 +7,6 @@ from pgvector.psycopg import register_vector
 from sentence_transformers import SentenceTransformer
 
 BASE_DIR = Path(__file__).resolve().parent.parent
-ENV_PATH = BASE_DIR / ".env"
-
-
-def load_dotenv_file(env_path: Path = ENV_PATH) -> None:
-    """Load key=value pairs from .env into os.environ without overwriting existing env vars."""
-    if not env_path.exists():
-        return
-    for raw_line in env_path.read_text(encoding="utf-8").splitlines():
-        line = raw_line.strip()
-        if not line or line.startswith("#"):
-            continue
-        if line.startswith("export "):
-            line = line[7:].lstrip()
-        if "=" not in line:
-            continue
-        key, value = line.split("=", 1)
-        key = key.strip()
-        value = value.strip()
-        if len(value) >= 2 and value[0] == value[-1] and value[0] in ("'", '"'):
-            value = value[1:-1]
-        if key:
-            os.environ.setdefault(key, value)
-
-
-load_dotenv_file()
-
 DATA_DIR = BASE_DIR / "data"
 DOCS_DIR = BASE_DIR / "docs"
 DOCS_DIR.mkdir(parents=True, exist_ok=True)
