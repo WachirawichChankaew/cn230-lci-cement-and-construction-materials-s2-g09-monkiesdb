@@ -1,11 +1,63 @@
-# ยกเว้นไฟล์ระบบของ Docker และไฟล์ชั่วคราว
+--- 1. Environment Variables & Secrets ---
+
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+--- 2. Python Virtual Environments & Bytecode ---
+
+venv/
+.venv/
+env/
+ENV/
+pycache/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+
+--- 3. Docker & Database Local Data Volumes ---
+
+ละเว้นไฟล์ข้อมูลดิบของ Container (สคริปต์ SQL และ CSV ต้นทางยังคงอยู่)
+
 mysql_data/
-db_data/
-*.zip
-*.txt
-~$*.docx
+pgdata/
+postgres_data/
+neo4j_data/
+*.sql.gz
+*.dump
+
+--- 4. HuggingFace / Sentence-Transformers Local Cache ---
+
+.cache/
+huggingface/
+models/
+
+--- 5. Temporary / Backup Office & OS Files ---
+
+ป้องกันไฟล์ชั่วคราวตอนเปิด Word/Excel/PowerPoint (เช่น ~$Report.docx)
+
+~$*
+*.tmp
+*.bak
+*.swp
 .DS_Store
 Thumbs.db
+desktop.ini
 
-database/
-*.sql
+--- 6. IDE & Editor Settings ---
+
+.vscode/
+.idea/
+*.code-workspace
+.ipynb_checkpoints/
+
+--- 7. Logs ---
+
+*.log
+logs/
